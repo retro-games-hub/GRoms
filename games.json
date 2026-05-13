@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "category": ["Action", "Adventure"],
+    "platform": "PS2",
+    "year": 2003,
+
+    "publisher": "Electronic Arts",
+    "languages": ["English", "French", "German"],
+    "userScore": 6.6,
+
+    "cover": "images/harry_potter_and_the_sorcerers_stone_ps2.png",
+    "images": [
+      "images/harry_potter_and_the_sorcerers_stone_ps2-1.webp",
+      "images/harry_potter_and_the_sorcerers_stone_ps2-2.webp",
+      "images/harry_potter_and_the_sorcerers_stone_ps2-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=MKbikWYqUYE&pp=ygU0aGFycnkgcG90dGVyIGFuZCB0aGUgcGhpbG9zb3BoZXIncyBzdG9uZSBwczIgdHJhaWxlcg%3D%3D",
+    "description": "Harry Potter and the Sorcerer's Stone is an action-adventure game based on the first Harry Potter movie and book. Players explore Hogwarts School of Witchcraft and Wizardry, learn magic spells, solve puzzles, fly on broomsticks, and face magical creatures while following Harry’s first year at Hogwarts. The PS2 version features improved graphics, expanded castle exploration, mini-games, secret areas, and cinematic storytelling inspired by the Wizarding World.",
+    "downloads": {
+      "USA": "https://drive.google.com/file/d/18GQbicSrm96q9cPBkoet8kAw5GyEgCqz/view?usp=drive_link",
+      "Europe": "https://drive.google.com/file/d/1lu6XPvX7GyupIzWkxenlC4xoTlPaUbB-/view?usp=drive_link"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "category": ["Action", "Adventure"],
+    "platform": "PS2",
+    "year": 2002,
+
+    "publisher": "Electronic Arts",
+    "languages": ["English", "French", "German"],
+    "userScore": 7.6,
+
+    "cover": "images/harry_potter_and_the_chamber_of_secrets_ps2.png",
+    "images": [
+      "images/harry_potter_and_the_chamber_of_secrets_ps2-1.webp",
+      "images/harry_potter_and_the_chamber_of_secrets_ps2-2.webp",
+      "images/harry_potter_and_the_chamber_of_secrets_ps2-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=i6pjwf3fX9o&pp=ygUzSGFycnkgUG90dGVyIGFuZCB0aGUgQ2hhbWJlciBvZiBTZWNyZXRzIHBzMiB0cmFpbGVy",
+    "description": "Harry Potter and the Chamber of Secrets is an action-adventure game based on the second Harry Potter movie and book. Players return to Hogwarts as Harry Potter and explore a larger magical world filled with secrets, puzzles, and dangerous creatures. Learn new spells, attend classes, fly on broomsticks, duel wizards, and uncover the mystery behind the Chamber of Secrets while facing the dark forces threatening the school. The PS2 version includes detailed environments, expanded exploration, mini-games, and cinematic moments from the Wizarding World.",
+    "downloads": {
+      "USA": "https://drive.google.com/file/d/1k-r2XxRNTgVDyKKgVty8EljX4Nhs7yfw/view?usp=drive_link",
+      "Europe": "https://drive.google.com/file/d/1WftKhl3yl4HmnDP5pEaS84JHHLpqtEIJ/view?usp=drive_link"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "category": ["Action"],
+    "platform": "PS1",
+    "year": 2001,
+
+    "publisher": "Electronic Arts",
+    "languages": ["English", "French", "German", "Russian", "Japan" ],
+    "userScore": 7.2,
+
+    "cover": "images/harry_potter_and_the_sorcerers_stone_ps1.png",
+    "images": [
+      "images/harry_potter_and_the_sorcerers_stone_ps1-1.webp",
+      "images/harry_potter_and_the_sorcerers_stone_ps1-2.webp",
+      "images/harry_potter_and_the_sorcerers_stone_ps1-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=guMnhX1Qdlw&pp=ygUxaGFycnkgcG90dGVyIGFuZCB0aGUgc29yY2VyZXIncyBzdG9uZSBwczEgdHJhaWxlcg%3D%3D",
+    "description": "Harry Potter and the Chamber of Secrets is an action-adventure game based on the second Harry Potter movie and book. Players return to Hogwarts as Harry Potter and explore a larger magical world filled with secrets, puzzles, and dangerous creatures. Learn new spells, attend classes, fly on broomsticks, duel wizards, and uncover the mystery behind the Chamber of Secrets while facing the dark forces threatening the school. The PS2 version includes detailed environments, expanded exploration, mini-games, and cinematic moments from the Wizarding World.",
+    "downloads": {
+      "USA": "https://drive.google.com/file/d/1JQjCCmUdtn594rLS6QeCwAOspntfGr61/view?usp=drive_link",
+      "Europe": "https://drive.google.com/file/d/19jci5I_X9cudSq_uV84WiJtXWIMEoXuz/view?usp=drive_link",
+      "Russia": "",
+      "Japan": "https://drive.google.com/file/d/13WL6AL-_nVZIPf0ftnxBUowf9OnF84cU/view?usp=drive_link"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "category": ["Action"],
+    "platform": "PS1",
+    "year": 2002,
+
+    "publisher": "Electronic Arts",
+    "languages": ["English", "French", "German", "Russian", "Japan" ],
+    "userScore": 7.6,
+
+    "cover": "images/harry_potter_and_the_chamber_of_secrets_ps1.png",
+    "images": [
+      "images/harry_potter_and_the_chamber_of_secrets_ps1-1.webp",
+      "images/harry_potter_and_the_chamber_of_secrets_ps1-2.webp",
+      "images/harry_potter_and_the_chamber_of_secrets_ps1-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=Sk42bEPSHdU&pp=ygUzSGFycnkgUG90dGVyIGFuZCB0aGUgQ2hhbWJlciBvZiBTZWNyZXRzIHBzMSB0cmFpbGVy",
+    "description": "Harry Potter and the Chamber of Secrets is an action-adventure game based on the second Harry Potter movie and book. Players return to Hogwarts as Harry Potter and explore a larger magical world filled with secrets, puzzles, and dangerous creatures. Learn new spells, attend classes, fly on broomsticks, duel wizards, and uncover the mystery behind the Chamber of Secrets while facing the dark forces threatening the school. The PS2 version includes detailed environments, expanded exploration, mini-games, and cinematic moments from the Wizarding World.",
+    "downloads": {
+      "USA": "https://drive.google.com/file/d/19ccF_CAZtVAWDfwv6yVKGrNBX5-pyhZ-/view?usp=drive_link",
+      "Europe": "https://drive.google.com/file/d/1ZoOQw-4bXop6_x2LDDkplkJIV4iOsyqX/view?usp=drive_link",
+      "Russia": "",
+      "Japan": "https://drive.google.com/file/d/1QTF7BS-L7PS9fqvmqGwEaMtIVo7exNPS/view?usp=drive_link"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Spider-man",
+    "category": ["Action"],
+    "platform": "PS1",
+    "year": 2000,
+
+    "publisher": "Activision, Neversoft Entertainment",
+    "languages": ["English", "French", "Russian"],
+    "userScore": 8.5,
+
+    "cover": "images/spider-man_ps1.png",
+    "images": [
+      "images/spider-man_ps1-1.webp",
+      "images/spider-man_ps1-2.webp",
+      "images/spider-man_ps1-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=TADSKouU6l8&pp=ygUWc3BpZGVyLW1hbiBwczEgdHJhaWxlcg%3D%3D",
+    "description": "Spider-Man is an action-adventure game based on Marvel’s iconic superhero. Players swing through New York City, fight famous villains such as Venom, Doctor Octopus, Carnage, and Mysterio, and use Spider-Man’s acrobatic abilities, web attacks, and gadgets to stop dangerous criminal plans. The game features comic-inspired storytelling, fast-paced combat, platforming sections, secret collectibles, and voice acting from characters of the Marvel universe, delivering a classic superhero experience on the PlayStation.",
+    "downloads": {
+      "USA": "https://drive.google.com/file/d/15fzGYeFfTDn_SjGgUCw0yXjuq6tnUmNC/view?usp=drive_link",
+      "Europe": "https://drive.google.com/file/d/1hPhkLyWbt6trvxcvkuPRRCUyRnidPB7g/view?usp=drive_link",
+      "Russia": ""
+    }
+  },
+  {
+    "id": 6,
+    "title": "Spider-Man 2: Enter Electro",
+    "category": ["Adventure"],
+    "platform": "PS1",
+    "year": 2001,
+
+    "publisher": "Activision",
+    "languages": ["English", "French", "Russian"],
+    "userScore": 8.2,
+
+    "cover": "images/spider-man_2_enter_electro_ps1.png",
+    "images": [
+      "images/spider-man_2_enter_electro_ps1-1.webp",
+      "images/spider-man_2_enter_electro_ps1-2.webp",
+      "images/spider-man_2_enter_electro_ps1-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=GeJIUSzKzBE&pp=ygUYc3BpZGVyLW1hbiAyIHBzMSB0cmFpbGVy",
+    "description": "Spider-Man 2: Enter Electro is an action-adventure sequel where Spider-Man faces the powerful villain Electro and his dangerous plans involving advanced technology and energy weapons. Players explore rooftops, laboratories, museums, and city environments while battling classic Marvel enemies using web-swinging, combat moves, stealth, and puzzle-solving mechanics. The game expands on the original with new abilities, improved visuals, additional costumes, and cinematic comic-style storytelling for an exciting superhero adventure on the PlayStation.",
+    "downloads": {
+      "USA": "https://drive.google.com/file/d/1XAffHN8ag425-ro75fZYhR3qQKW1Q2Tl/view?usp=drive_link",
+      "Europe": "https://drive.google.com/file/d/1lFsSTGK4XyG2jn9WZrWPirOymYhft6pk/view?usp=drive_link",
+      "Russia": ""
+    }
+  },
+  {
+    "id": 7,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "category": ["RPG"],
+    "platform": "GBA",
+    "year": 2004,
+
+    "publisher": "Electronic Arts, Griptonite Games",
+    "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
+    "userScore": 7.8,
+
+    "cover": "images/harry-potter-prisoner-of-azkaban_gba.png",
+    "images": [
+      "images/harry-potter-prisoner-of-azkaban_gba-1.webp",
+      "images/harry-potter-prisoner-of-azkaban_gba-2.webp",
+      "images/harry-potter-prisoner-of-azkaban_gba-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=Ln6XwAo9BXc&pp=ygU0SGFycnkgUG90dGVyIGFuZCB0aGUgUHJpc29uZXIgb2YgQXprYWJhbiBnYmEgdHJhaWxlcg%3D%3D",
+    "description": "Harry Potter and the Prisoner of Azkaban is a role-playing adventure game based on the third Harry Potter movie and book. Players control Harry, Ron, and Hermione as they explore Hogwarts, attend classes, solve magical puzzles, and uncover the mystery surrounding Sirius Black and the escaped prisoners of Azkaban. The Game Boy Advance version features turn-based combat, spell learning, character switching, collectible items, and exploration inspired by classic RPG games while following the darker and more mysterious story of Harry’s third year at Hogwarts.",
+    "downloads": {
+      "USA": "https://drive.google.com/file/d/1Q45DfJJvcbKIwmn5oJEnEV1u-dvHh_Q3/view?usp=drive_link",
+      "Russia": "https://drive.google.com/file/d/1_BmxVBbGJo29TMISiIJ7T9iUvm161CwO/view?usp=drive_link"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Phoenix Wright: Ace Attorney",
+    "category": ["Adventure", "Visual Novel"],
+    "platform": "NDS",
+    "year": 2005,
+
+    "publisher": "Capcom",
+    "languages": ["English", "French", "Russian", "Japan"],
+    "userScore": 8.9,
+
+    "cover": "images/phoenix_wright_ace_attorney_nds.png",
+    "images": [
+      "images/phoenix_wright_ace_attorney_nds-1.webp",
+      "images/phoenix_wright_ace_attorney_nds-2.webp",
+      "images/phoenix_wright_ace_attorney_nds-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=XEH0vH5QUyk&pp=ygUoUGhvZW5peCBXcmlnaHQ6IEFjZSBBdHRvcm5leSBuZHMgdHJhaWxlcg%3D%3D",
+    "description": "Phoenix Wright: Ace Attorney is a visual novel adventure game where players take the role of rookie defense attorney Phoenix Wright as he investigates crimes, questions witnesses, gathers evidence, and defends innocent clients in dramatic courtroom trials. Originally released for the Nintendo DS, the game combines detective gameplay, puzzle-solving, and intense cross-examinations where players must spot contradictions and present evidence to uncover the truth. Featuring memorable characters, humorous dialogue, and suspenseful cases, Phoenix Wright: Ace Attorney became one of the most iconic courtroom adventure games on the Nintendo DS.",
+    "downloads": {
+      "USA": "https://drive.google.com/file/d/1ozHsUYVXZmXvQ2pqisBPlyJwNveKQ4Cn/view?usp=drive_link",
+      "Europe": "https://drive.google.com/file/d/1AjKFWxBthWbLFvNi2xpL6mgbz4QTYCzN/view?usp=drive_link",
+      "Japan": "https://drive.google.com/file/d/1nLQTPc4nugH0aMdbiW0PLEDLZJ7EWhvA/view?usp=drive_link",
+      "Russia": "https://drive.google.com/file/d/1vcz4zXUuLtPWZGeRmEMk6G82ROrn7hOU/view?usp=drive_link"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="favicon.png">
+  <title>GRoms - Game Details</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<header class="header">
+  <h1>GRoms</h1>
+  <p id="gameTitle">Game</p>
+  <a class="back-link" href="index.html">← Back to games</a>
+</header>
+
+<main class="container">
+  <div id="gameDetails"></div>
+  <section class="recommended-section">
+    <h2>Recommended Games</h2>
+
+    <div id="recommendedGames" class="games-grid"></div>
+  </section>
+</main>
+
+
+<footer class="footer">
+  <div class="footer-content">
+    <p>© 2026 - <span id="year"></span> GRoms</p>
+    <p>All Rights Reserved</p>
+  </div>
+</footer>
+
+<script src="js/game.js"></script>
+<script>
+    const year = document.getElementById("year");
+            if (year) {
+                year.textContent = new Date().getFullYear();
+            }
+</script>
+</body>
+</html>

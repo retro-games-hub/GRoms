@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="favicon.png">
+  <title>GRoms - Your personal game download library</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<header class="header">
+  <h1>GRoms</h1>
+  <p>Your personal game download library</p>
+</header>
+
+<main class="container">
+
+  <div class="filters">
+    <input id="searchInput" type="text" placeholder="Search games..." />
+
+    <select id="categoryFilter">
+      <option value="">All Categories</option>
+    </select>
+
+    <select id="platformFilter">
+      <option value="">All Platforms</option>
+    </select>
+
+    <select id="sortSelect">
+      <option value="az">Name A-Z</option>
+      <option value="za">Name Z-A</option>
+      <option value="newest">Newest</option>
+      <option value="oldest">Oldest</option>
+    </select>
+  </div>
+
+  <div id="gamesGrid" class="games-grid"></div>
+
+</main>
+
+<footer class="footer">
+  <div class="footer-content">
+    <p>© 2026 - <span id="year"></span> GRoms</p>
+    <p>All Rights Reserved</p>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+<script>
+    const year = document.getElementById("year");
+            if (year) {
+                year.textContent = new Date().getFullYear();
+            }
+</script>
+</body>
+</html>
