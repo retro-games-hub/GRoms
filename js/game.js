@@ -70,10 +70,11 @@ function renderGame(game) {
           </select>
 
           <a id="downloadBtn"
-             class="btn"
-             href="${game.downloads[regions[0]]}"
-             download>
-             Download Game
+            class="btn"
+            href="${game.downloads[regions[0]]}"
+            target="_blank"
+            rel="noopener noreferrer">
+            Download Game
           </a>
         </div>
 
@@ -106,6 +107,101 @@ function renderGame(game) {
 
   regionSelect.addEventListener("change", () => {
     downloadBtn.href = game.downloads[regionSelect.value];
+  });
+
+  const lightbox =
+  document.getElementById("lightbox");
+
+  const lightboxImage =
+    document.getElementById("lightboxImage");
+
+  const closeLightbox =
+    document.getElementById("closeLightbox");
+
+  const prevImageBtn =
+    document.getElementById("prevImage");
+
+  const nextImageBtn =
+    document.getElementById("nextImage");
+
+  const galleryImages =
+    document.querySelectorAll(".gallery img");
+
+  let currentImageIndex = 0;
+
+  function openLightbox(index) {
+    currentImageIndex = index;
+
+    lightbox.style.display = "flex";
+
+    lightboxImage.src =
+      galleryImages[currentImageIndex].src;
+  }
+
+  function showNextImage() {
+    currentImageIndex++;
+
+    if (currentImageIndex >= galleryImages.length) {
+      currentImageIndex = 0;
+    }
+
+    lightboxImage.src =
+      galleryImages[currentImageIndex].src;
+  }
+
+  function showPrevImage() {
+    currentImageIndex--;
+
+    if (currentImageIndex < 0) {
+      currentImageIndex =
+        galleryImages.length - 1;
+    }
+
+    lightboxImage.src =
+      galleryImages[currentImageIndex].src;
+  }
+
+  galleryImages.forEach((image, index) => {
+    image.addEventListener("click", () => {
+      openLightbox(index);
+    });
+  });
+
+  nextImageBtn.addEventListener(
+    "click",
+    showNextImage
+  );
+
+  prevImageBtn.addEventListener(
+    "click",
+    showPrevImage
+  );
+
+  closeLightbox.addEventListener("click", () => {
+    lightbox.style.display = "none";
+  });
+
+  lightbox.addEventListener("click", (e) => {
+    if (e.target === lightbox) {
+      lightbox.style.display = "none";
+    }
+  });
+
+  document.addEventListener("keydown", (e) => {
+
+    if (lightbox.style.display !== "flex") return;
+
+    if (e.key === "ArrowRight") {
+      showNextImage();
+    }
+
+    if (e.key === "ArrowLeft") {
+      showPrevImage();
+    }
+
+    if (e.key === "Escape") {
+      lightbox.style.display = "none";
+    }
   });
 }
 function renderRecommendedGames(allGames, currentGameId) {
