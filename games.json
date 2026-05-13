@@ -198,5 +198,30 @@
       "Japan": "https://drive.google.com/uc?export=download&id=1nLQTPc4nugH0aMdbiW0PLEDLZJ7EWhvA",
       "Russia": "https://drive.google.com/uc?export=download&id=1vcz4zXUuLtPWZGeRmEMk6G82ROrn7hOU"
     }
+  },
+  {
+    "id": 9,
+    "title": "God of War: Ghost of Sparta",
+    "category": ["Action", "Adventure"],
+    "platform": "PSP",
+    "year": 2010,
+
+    "publisher": "SCEA",
+    "languages": ["English", "French", "Spanish", "German", "Italian", "Russian"],
+    "userScore": 8.8,
+
+    "cover": "images/god_of_war_ghost_of_sparta_psp.png",
+    "images": [
+      "images/god_of_war_ghost_of_sparta_psp-1.webp",
+      "images/god_of_war_ghost_of_sparta_psp-2.webp",
+      "images/god_of_war_ghost_of_sparta_psp-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/bDN3aUzyctY",
+    "description": "God of War: Ghost of Sparta is an action-adventure game developed exclusively for the PlayStation Portable. Players once again control Kratos, the Ghost of Sparta, as he embarks on a brutal journey to uncover the truth about his past and his family. The game features intense hack-and-slash combat, powerful magical abilities, cinematic boss battles, and large mythological environments inspired by ancient Greece. With improved visuals, fast-paced gameplay, puzzles, and an emotional story connected to the main God of War series, Ghost of Sparta delivers one of the most technically impressive and action-packed experiences on the PSP.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1qYTpfbxFXsiz8d8tuQ8489_kIYJ9MJt0",
+      "Europe": "https://drive.google.com/uc?export=download&id=1BCH5ouKhUAQhdWMHZQr6eO7Z2teeLnEH",
+      "Russia": "https://drive.google.com/uc?export=download&id=1lbolYpQh9IX0taGYi2pWJgdRQFu03uMq"
+    }
   }
 ]
