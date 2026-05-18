@@ -223,5 +223,219 @@
       "Europe": "https://drive.google.com/uc?export=download&id=1BCH5ouKhUAQhdWMHZQr6eO7Z2teeLnEH",
       "Russia": "https://drive.google.com/uc?export=download&id=1lbolYpQh9IX0taGYi2pWJgdRQFu03uMq"
     }
+  },
+  {
+    "id": 10,
+    "title": "Naruto Ninja Council",
+    "category": ["Action", "Platformer 2D"],
+    "platform": "GBA",
+    "year": 2003,
+
+    "publisher": "D3Publisher, Tomy",
+    "languages": ["English", "Japan"],
+    "userScore": 6.5,
+
+    "cover": "images/naruto_ninja_council_gba.png",
+    "images": [
+      "images/naruto_ninja_council_gba-1.webp",
+      "images/naruto_ninja_council_gba-2.webp",
+      "images/naruto_ninja_council_gba-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/aMax1rVYxcw",
+    "description": "Naruto: Ninja Council is a side-scrolling action game based on the popular Naruto anime and manga series. Players control Naruto Uzumaki and other familiar ninja characters while completing missions, battling enemies, and using special ninja techniques inspired by the anime. The Game Boy Advance version features fast-paced combat, platforming gameplay, unlockable characters, and iconic moves such as Shadow Clone Jutsu and Rasengan, delivering an action-filled portable ninja adventure.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1PSyJ4NU0Ic_tpqndEGoiQDE6ARNB5vC5",
+      "Japan": "https://drive.google.com/uc?export=download&id=1JoPfYXZ5-LN0vfi-NSSstmNpqt7UM5Ku"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Naruto Ninja Council 2",
+    "category": ["Action", "Platformer 2D", "Adventure"],
+    "platform": "GBA",
+    "year": 2004,
+
+    "publisher": "D3Publisher, Tomy",
+    "languages": ["English", "Japan"],
+    "userScore": 6.3,
+
+    "cover": "images/naruto_ninja_council_2_gba.png",
+    "images": [
+      "images/naruto_ninja_council_2_gba-1.webp",
+      "images/naruto_ninja_council_2_gba-2.webp",
+      "images/naruto_ninja_council_2_gba-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/2FBQxpJ2hl0",
+    "description": "Naruto: Ninja Council 2 is an action-platformer game that expands on the original Ninja Council with new missions, improved gameplay mechanics, and additional playable characters from the Naruto universe. Players fight through various stages using ninja attacks, special jutsu abilities, and character-specific skills while reliving moments inspired by the anime series. The Game Boy Advance version includes multiplayer support, unlockable content, and faster combat, making it a more dynamic ninja experience for portable gaming fans.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=10z6G6AqiOuzdtDtxfAjkowgNasVany69",
+      "Japan": "https://drive.google.com/uc?export=download&id=1N-m3NubWGJMukb_pIptXBZMZ9TZGXKN6"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Harry Potter and The Sorcerer's Stone",
+    "category": ["Action", "Adventure"],
+    "platform": "GBA",
+    "year": 2001,
+
+    "publisher": "Griptonite Games, Electronic Arts",
+    "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Norwegian", "Portuguese", "Spanish", "Swedish", "Russian", "Japan"],
+    "userScore": 6.3,
+
+    "cover": "images/harry_potter_and_the_sorcerers_stone_gba.png",
+    "images": [
+      "images/harry_potter_sorcerers_stone_gba-1.webp",
+      "images/harry_potter_sorcerers_stone_gba-2.webp",
+      "images/harry_potter_sorcerers_stone_gba-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/xbOEa3tddTo",
+    "description": "Harry Potter and the Sorcerer’s Stone is a role-playing adventure game based on the first Harry Potter movie and book. Players control Harry Potter during his first year at Hogwarts School of Witchcraft and Wizardry, learning magical spells, exploring castle locations, solving puzzles, and battling dangerous creatures. The Game Boy Advance version features turn-based combat, character interactions, collectible items, and RPG-inspired gameplay while following the story of Harry discovering the magical world and confronting the mystery surrounding the Sorcerer’s Stone.Harry Potter and the Sorcerer’s Stone is a role-playing adventure game based on the first Harry Potter movie and book. Players control Harry Potter during his first year at Hogwarts School of Witchcraft and Wizardry, learning magical spells, exploring castle locations, solving puzzles, and battling dangerous creatures. The Game Boy Advance version features turn-based combat, character interactions, collectible items, and RPG-inspired gameplay while following the story of Harry discovering the magical world and confronting the mystery surrounding the Sorcerer’s Stone.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1SbrjMXbz446xoAlRfdOwVMb_0pGCVdhT",
+      "Russian": "https://drive.google.com/uc?export=download&id=1N-1yvgi-gqkdFsGfhLz6CRUKzKBQj8awlpn"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Harry Potter and The Chamber of Secrets",
+    "category": ["Action", "Adventure"],
+    "platform": "GBA",
+    "year": 2002,
+
+    "publisher": "Eurocom, Electronic Arts",
+    "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Norwegian", "Portuguese", "Spanish", "Swedish", "Russian"],
+    "userScore": 6.3,
+
+    "cover": "images/harry_potter_and_the_chamber_of_secrets_gba.png",
+    "images": [
+      "images/harry_potter_and_the_chamber_of_secrets_gba-1.webp",
+      "images/harry_potter_and_the_chamber_of_secrets_gba-2.webp",
+      "images/harry_potter_and_the_chamber_of_secrets_gba-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/mZk8tv8aAqA",
+    "description": "Harry Potter and the Chamber of Secrets is a role-playing adventure game based on the second Harry Potter movie and book. Players guide Harry through his second year at Hogwarts while investigating the mysterious attacks occurring inside the school and uncovering the secrets hidden within the Chamber of Secrets. The Game Boy Advance version includes turn-based battles, spell learning, exploration, puzzles, mini-games, and interactions with familiar characters from the Wizarding World, delivering a deeper RPG-style magical adventure on handheld consoles.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1Q0aUtGxdwZ0j9TlhcqFZfDPPmPCvV5bv",
+      "Russian": "https://drive.google.com/uc?export=download&id=1sGfBYHDs5eBuAu_1tooohYTo1_7vpt5k"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Harry Potter and The Sorcerer's Stone",
+    "category": ["RPG"],
+    "platform": "GBC",
+    "year": 2001,
+
+    "publisher": "Griptonite Games, Electronic Arts",
+    "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Norwegian", "Portuguese", "Spanish", "Swedish"],
+    "userScore": 7.2,
+
+    "cover": "images/harry_potter_sorcerers_stone_gbc.png",
+    "images": [
+      "images/harry_potter_and_the_sorcerers_stone_gbc-1.webp",
+      "images/harry_potter_and_the_sorcerers_stone_gbc-2.webp",
+      "images/harry_potter_and_the_sorcerers_stone_gbc-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/dIZaJmY3w2Q",
+    "description": "Harry Potter and the Sorcerer’s Stone is a role-playing adventure game for the Game Boy Color based on the first Harry Potter book and movie. Players control Harry Potter as he begins his first year at Hogwarts School of Witchcraft and Wizardry, learning spells, attending classes, exploring magical locations, and battling enemies using turn-based combat. The game features RPG mechanics, collectible wizard cards, puzzles, and interactions with iconic characters from the Wizarding World while following the story of the Sorcerer’s Stone.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1nQOE70w6m10JjZiXlYfjDVTIDTzkc3jX"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Harry Potter and The Chamber of Secrets",
+    "category": ["RPG"],
+    "platform": "GBC",
+    "year": 2002,
+
+    "publisher": "Griptonite Games, Electronic Arts",
+    "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Norwegian", "Portuguese", "Spanish", "Swedish"],
+    "userScore": 7.2,
+
+    "cover": "images/harry_potter_and_the_chamber_of_secrets_gbc.png",
+    "images": [
+      "images/harry_potter_and_the_chamber_of_secrets_gbc-1.webp",
+      "images/harry_potter_and_the_chamber_of_secrets_gbc-2.webp",
+      "images/harry_potter_and_the_chamber_of_secrets_gbc-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/U6YuIfPeMT4",
+    "description": "Harry Potter and the Chamber of Secrets is a role-playing adventure game for the Game Boy Color inspired by the second Harry Potter book and movie. Players return to Hogwarts as Harry Potter to investigate the mysterious events threatening the school and uncover the secrets hidden inside the legendary Chamber of Secrets. The game features turn-based battles, spell upgrades, exploration, side quests, puzzles, and interactions with familiar characters, delivering a classic handheld RPG experience set in the Wizarding World.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1mxQFNceRYjxugces9lnwYhUpvxHYM4-D"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Harry Potter - Quidditch World Cup",
+    "category": ["Action", "sport"],
+    "platform": "GBA",
+    "year": 2003,
+
+    "publisher": "Magic Pockets, Electronic Arts",
+    "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
+    "userScore": 6.7,
+
+    "cover": "images/harry_potter_quidditch_world_cup_gba.png",
+    "images": [
+      "images/harry_potter_quidditch_world_cup_gba-1.webp",
+      "images/harry_potter_quidditch_world_cup_gba-2.webp",
+      "images/harry_potter_quidditch_world_cup_gba-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/3katv6_I5WY",
+    "description": "Harry Potter: Quidditch World Cup is a sports game based on the magical Quidditch tournaments from the Harry Potter universe. Players take control of Hogwarts house teams and international wizarding teams while competing in fast-paced aerial matches using broomsticks, special moves, and magical gameplay mechanics. The Game Boy Advance version features arcade-style Quidditch action, tournaments, unlockable teams, and character progression inspired by the Wizarding World, allowing players to experience the excitement of magical sports competition on a handheld console.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1ofQp2msIgxJ3TygyddfvKwehUcn-vWBN",
+      "Russian": "https://drive.google.com/uc?export=download&id=1Cy1ksvUjQq78zniKB3Do888Yn0UfAcS7"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Harry Potter and the Goblet of Fire",
+    "category": ["Action", "Adventure"],
+    "platform": "GBA",
+    "year": 2005,
+
+    "publisher": "EA UK, Electronic Arts",
+    "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
+    "userScore": 5.3,
+
+    "cover": "images/harry_potter_and_the_goblet_of_fire_gba.png",
+    "images": [
+      "images/harry_potter_and_the_goblet_of_fire_gba-1.webp",
+      "images/harry_potter_and_the_goblet_of_fire_gba-2.webp",
+      "images/harry_potter_and_the_goblet_of_fire_gba-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/vj33-6odSlA",
+    "description": "Harry Potter and the Goblet of Fire is an action-adventure game based on the fourth Harry Potter movie and book. Players control Harry, Ron, and Hermione as they battle magical creatures, solve puzzles, and relive major moments from the Triwizard Tournament. The Game Boy Advance version features cooperative gameplay mechanics, spell-based combat, exploration, collectible items, and level progression inspired by the darker storyline of Harry’s fourth year at Hogwarts and the return of Lord Voldemort.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1cEJkxgkl3CwbwSDFt3htGXfUNv8Qi2JB",
+      "Russia": "https://drive.google.com/uc?export=download&id=1KS_T-nkEdOiWVIFBUxdAgBM1XuZIZRkU"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "category": ["Action", "Adventure"],
+    "platform": "GBA",
+    "year": 2007,
+
+    "publisher": "EA Bright Light, Electronic Arts",
+    "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
+    "userScore": 5.7,
+
+    "cover": "images/harry_potter_and_the_order_of_the_phoenix_gba.png",
+    "images": [
+      "images/harry_potter_and_the_order_of_the_phoenix_gba-1.webp",
+      "images/harry_potter_and_the_order_of_the_phoenix_gba-2.webp",
+      "images/harry_potter_and_the_order_of_the_phoenix_gba-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/NFUhWxwA3GY",
+    "description": "Harry Potter and the Order of the Phoenix is an action-adventure game inspired by the fifth Harry Potter movie and book. Players join Harry Potter and Dumbledore’s Army as they explore Hogwarts, practice defensive magic, complete missions, and fight against the growing influence of dark forces within the wizarding world. The Game Boy Advance version features spell-casting gameplay, exploration, mini-games, character interactions, and story-driven progression based on Harry’s struggle against the Ministry of Magic and Lord Voldemort’s return.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1ls1UlcwxV-BUeKycqIKj_9bb8XhzUjX-",
+      "Russia": "https://drive.google.com/uc?export=download&id=1Bw1VypIVUprLggvXoRKaox3UP08-vY6Q"
+    }
   }
 ]
