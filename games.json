@@ -437,5 +437,31 @@
       "USA": "https://drive.google.com/uc?export=download&id=1ls1UlcwxV-BUeKycqIKj_9bb8XhzUjX-",
       "Russia": "https://drive.google.com/uc?export=download&id=1Bw1VypIVUprLggvXoRKaox3UP08-vY6Q"
     }
+  },
+  {
+    "id": 19,
+    "title": "Castlevania",
+    "category": ["Action", "Adventure", "Platformer 2D"],
+    "platform": "NES",
+    "year": 1987,
+
+    "publisher": "Konami, Hamster Corporation",
+    "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
+    "userScore": 7.8,
+
+    "cover": "images/castlevania_nes.png",
+    "images": [
+      "images/castlevania_nes-1.webp",
+      "images/castlevania_nes-2.webp",
+      "images/castlevania_nes-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/hlGueL3Kb9E",
+    "description": "Castlevania is a classic action-platformer game released for the Nintendo Entertainment System where players take control of vampire hunter Simon Belmont on a dangerous journey through Dracula’s castle. Armed with the legendary Vampire Killer whip and various sub-weapons, players battle monsters, traps, skeletons, ghosts, and powerful bosses inspired by gothic horror mythology. Featuring challenging gameplay, atmospheric level design, memorable music, and iconic retro visuals, Castlevania became one of the most influential action games on the NES and a defining title in the classic horror gaming genre.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1WiJWNdTQ8rotNXP1bU9P0wtj5YBOILyy",
+      "Europe": "https://drive.google.com/uc?export=download&id=1wuikdUfOpoDUsL9nkKTCXoXW8i5Ot-0v",
+      "Japan": "https://drive.google.com/uc?export=download&id=1Ah6GXv4o0i1dfPWvPdQ0nkr0kv6VbvqI",
+      "Russia": "https://drive.google.com/uc?export=download&id=1Bs0V0ZOv_GXvh0w6iqrN761Xxg124fi5"
+    }
   }
 ]
