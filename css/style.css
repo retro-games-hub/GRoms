@@ -50,6 +50,10 @@ body {
   gap: 10px;
 }
 
+.logo a{
+  display: flex;
+}
+
 /* your 512x512 image */
 .logo-img {
   width: 42px;
@@ -76,22 +80,25 @@ body {
 }
 
 /* NAV */
-.nav {
-  display: flex;
-  gap: 18px;
-}
-
 .nav a {
+  position: relative;
   color: #9ca3af;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 16px;
   transition: 0.2s;
-  position: relative;
 }
 
+/* hover */
 .nav a:hover {
   color: #ffffff;
+  box-shadow: 0 2px 8px rgba(255,255,255,0.2);
 }
+
+/* active page */
+.nav a.active {
+  color: #ffffff;
+}
+
 
 /* SEARCH */
 .search-box input {
@@ -101,13 +108,58 @@ body {
   border-radius: 8px;
   color: #ffffff;
   outline: none;
-  width: 200px;
-  transition: 0.2s;
+  width: 100%;
+  transition: 0.5s;
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .search-box input:focus {
   border-color: #9ca3af;
-  width: 260px;
+}
+
+
+.search-box {
+  position: relative;
+  width: 75%;
+}
+
+.search-results {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  right: 0;
+
+  background: #1f2937;
+  border: 1px solid #374151;
+  border-radius: 8px;
+
+  max-height: 300px;
+  overflow-y: auto;
+
+  display: none;
+  z-index: 999;
+}
+
+.search-item {
+  padding: 10px;
+  cursor: pointer;
+  color: #9ca3af;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.search-item:hover {
+  background: #111827;
+  color: #ffffff;
+}
+
+.search-item img {
+  width: 30px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 4px;
 }
 
 
@@ -154,7 +206,7 @@ body {
 
 .filters {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 15px;
   margin-bottom: 25px;
 }
@@ -273,6 +325,10 @@ select {
   .header-inner{
     flex-direction: column;
   }
+
+  .search-box{
+    width: 100%;
+  }
 }
 
 .game-layout {
@@ -292,7 +348,7 @@ select {
 
 .info-box {
   background: #111827;
-  padding: 18px;
+  padding: 0;
   border-radius: 12px;
   margin-bottom: 20px;
 }

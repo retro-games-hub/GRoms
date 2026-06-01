@@ -52,7 +52,9 @@ function renderLastAdded(games) {
     container.innerHTML += `
       <div class="sidebar-game">
 
-        <img src="${game.cover}" alt="${game.title}">
+        <a href="game.html?id=${game.id}">
+          <img src="${game.cover}" alt="${game.title}">
+        </a>
 
         <div class="sidebar-game-info">
 
@@ -109,10 +111,12 @@ function renderRandomCategory(games) {
     container.innerHTML += `
       <div class="sidebar-game">
 
-        <img
-          src="${game.cover}"
-          alt="${game.title}"
-        >
+        <a href="game.html?id=${game.id}">
+          <img
+            src="${game.cover}"
+            alt="${game.title}"
+          >
+        </a>
 
         <div class="sidebar-game-info">
 
@@ -379,7 +383,9 @@ function renderRecommendedGames(allGames, currentGameId) {
   selectedGames.forEach(game => {
     recommendedContainer.innerHTML += `
       <div class="game-card">
-        <img src="${game.cover}" alt="${game.title}">
+        <a href="game.html?id=${game.id}">
+          <img src="${game.cover}" alt="${game.title}">
+        </a>
 
         <div class="game-card-content">
           <h3>${game.title}</h3>

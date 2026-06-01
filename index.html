@@ -13,23 +13,23 @@
   <div class="header-inner">
 
     <div class="logo">
-      <img src="favicon.png" alt="GRoms Logo" class="logo-img">
-      <div class="logo-text">
-        <h1>GRoms</h1>
-        <span>Game Library</span>
-      </div>
+      <a href="index.html">
+        <img src="favicon.png" alt="GRoms Logo" class="logo-img">
+        <div class="logo-text">
+          <h1>GRoms</h1>
+          <span>Game Library</span>
+        </div>
+      </a>
+    </div>
+
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search games...">
+      <div id="searchInput" class="search-results"></div>
     </div>
 
     <nav class="nav">
-      <a href="index.html">Home</a>
-      <a href="#">Categories</a>
-      <a href="#">Top Games</a>
-      <a href="#">About</a>
+      <a href="index.html" class="active">Home</a>
     </nav>
-
-    <div class="search-box">
-      <input type="text" placeholder="Search games...">
-    </div>
 
   </div>
 </header>
@@ -39,15 +39,16 @@
   <section class="main-content">
 
     <div class="filters">
-      <input id="searchInput" type="text" placeholder="Search games..." />
+      <!-- <input id="searchInput" type="text" placeholder="Search games..." /> -->
+
+      <select id="platformFilter">
+        <option value="">All Platforms</option>
+      </select>
 
       <select id="categoryFilter">
         <option value="">All Categories</option>
       </select>
 
-      <select id="platformFilter">
-        <option value="">All Platforms</option>
-      </select>
 
       <select id="sortSelect">
         <option value="az">Name A-Z</option>
