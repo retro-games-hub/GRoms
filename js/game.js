@@ -15,12 +15,148 @@ fetch("games.json")
     }
 
     renderGame(game);
+    renderLastAdded(games);
+    renderRandomCategory(games);
     renderRecommendedGames(games, game.id);
+
+    const btn =
+        document.getElementById("newCategoryBtn");
+
+    if (btn) {
+        btn.addEventListener("click", () => {
+            renderRandomCategory(games);
+        });
+    }
+
   })
   .catch(error => {
     gameDetails.innerHTML = "<p>Error loading game.</p>";
     console.error(error);
   });
+
+function renderLastAdded(games) {
+
+  const container =
+    document.getElementById("lastAddedGames");
+
+  if (!container) return;
+
+  const latestGames = [...games]
+    .sort((a, b) => b.id - a.id)
+    .slice(0, 3);
+
+  container.innerHTML = "";
+
+  latestGames.forEach(game => {
+
+    container.innerHTML += `
+      <div class="sidebar-game">
+
+        <img src="${game.cover}" alt="${game.title}">
+
+        <div class="sidebar-game-info">
+
+          <a href="game.html?id=${game.id}">
+            ${game.title}
+          </a>
+
+          <p>${game.releaseDate?.year || ""}</p>
+
+        </div>
+
+      </div>
+    `;
+  });
+}
+
+function renderRandomCategory(games) {
+
+  const container =
+    document.getElementById("randomCategoryGames");
+
+  const title =
+    document.getElementById("randomCategoryTitle");
+
+  if (!container || !title) return;
+
+  const allCategories = [
+    ...new Set(
+      games.flatMap(game => game.category)
+    )
+  ];
+
+  const randomCategory =
+    allCategories[
+      Math.floor(
+        Math.random() * allCategories.length
+      )
+    ];
+
+  title.textContent =
+    `Random Category: ${randomCategory}`;
+
+  const selectedGames = games
+    .filter(game =>
+      game.category.includes(randomCategory)
+    )
+    .sort(() => Math.random() - 0.5)
+    .slice(0, 3);
+
+  container.innerHTML = "";
+
+  selectedGames.forEach(game => {
+
+    container.innerHTML += `
+      <div class="sidebar-game">
+
+        <img
+          src="${game.cover}"
+          alt="${game.title}"
+        >
+
+        <div class="sidebar-game-info">
+
+          <a href="game.html?id=${game.id}">
+            ${game.title}
+          </a>
+
+          <p>
+            ${game.releaseDate?.year || ""}
+          </p>
+
+        </div>
+
+      </div>
+    `;
+  });
+}
+
+function formatReleaseDate(releaseDate) {
+  if (!releaseDate) return "Unknown";
+
+  const { year, month, day } = releaseDate;
+
+  if (year && month && day) {
+    const date = new Date(year, month - 1, day);
+
+    return date.toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric"
+    });
+  }
+
+  if (year && month) {
+    const date = new Date(year, month - 1);
+
+    return date.toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long"
+    });
+  }
+
+  return year.toString();
+}
 
 function renderGame(game) {
   gameTitle.textContent = game.title;
@@ -43,7 +179,7 @@ function renderGame(game) {
         <div class="info-box">
           <p><strong>Platform:</strong> ${game.platform}</p>
           <p><strong>Category:</strong> ${game.category.join(", ")}</p>
-          <p><strong>Year:</strong> ${game.year}</p>
+          <p><strong>Year:</strong>  ${formatReleaseDate(game.releaseDate)}</p>
           <p><strong>Publisher:</strong> ${game.publisher}</p>
           <p>
             <strong>Languages:</strong>
@@ -59,46 +195,42 @@ function renderGame(game) {
           <h3>Description</h3>
           <p>${game.description}</p>
         </div>
-
-        <div class="download-box">
-          <h3>Download</h3>
-
+      </div>
+    </div>
+    <div class="additional-content">
+      <div class="download-box">
+        <h3>Download</h3>
+        <div class="download-info">
           <select id="regionSelect">
             ${regions.map(region =>
               `<option value="${region}">${region}</option>`
             ).join("")}
           </select>
-
-          <a id="downloadBtn"
-            class="btn"
+          <a id="downloadBtn" class="btn"
             href="${game.downloads[regions[0]]}"
             target="_blank"
             rel="noopener noreferrer">
             Download Game
           </a>
         </div>
-
-        <div class="gallery-section">
-          <h3>Screenshots</h3>
-
-          <div class="gallery">
-            ${game.images.map(img =>
-              `<img src="${img}" alt="${game.title}">`
-            ).join("")}
-          </div>
-        </div>
-
-        <div class="trailer-section">
-          <h3>Trailer</h3>
-
-          <iframe
-            class="trailer"
-            src="${game.trailer}"
-            allowfullscreen>
-          </iframe>
-        </div>
-
       </div>
+      <div class="gallery-section">
+        <h3>Screenshots</h3>
+        <div class="gallery">
+          ${game.images.map(img =>
+            `<img src="${img}" alt="${game.title}">`
+          ).join("")}
+        </div>
+      </div>
+      <div class="trailer-section">
+        <h3>Trailer</h3>
+        <iframe
+          class="trailer"
+          src="${game.trailer}"
+          allowfullscreen>
+        </iframe>
+      </div>
+
     </div>
   `;
 
@@ -210,15 +342,37 @@ function renderRecommendedGames(allGames, currentGameId) {
 
   if (!recommendedContainer) return;
 
-  const filteredGames = allGames.filter(
-    game => game.id !== currentGameId
-  );
+  const currentGame = allGames.find(g => g.id === currentGameId);
+  if (!currentGame) return;
 
-  const shuffled = filteredGames.sort(
-    () => 0.5 - Math.random()
-  );
+  const scoredGames = allGames
+    .filter(game => game.id !== currentGameId)
+    .map(game => {
+      let score = 0;
 
-  const selectedGames = shuffled.slice(0, 4);
+      // 🎯 Category match (MOST IMPORTANT)
+      const sharedCategories = game.category.filter(cat =>
+        currentGame.category.includes(cat)
+      );
+      score += sharedCategories.length * 5;
+
+      // 🎮 Platform match
+      if (game.platform === currentGame.platform) {
+        score += 3;
+      }
+
+      // 📅 Same year (small bonus)
+      if (game.releaseDate?.year === currentGame.releaseDate?.year) {
+        score += 1;
+      }
+
+      return { game, score };
+    });
+
+  const selectedGames = scoredGames
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 3)
+    .map(item => item.game);
 
   recommendedContainer.innerHTML = "";
 
@@ -230,13 +384,10 @@ function renderRecommendedGames(allGames, currentGameId) {
         <div class="game-card-content">
           <h3>${game.title}</h3>
 
-          <p>
-            ${game.platform} • ${game.year}
-          </p>
+          <p>${game.platform} • ${game.category.join(", ")}</p>
 
-          <a class="btn"
-             href="game.html?id=${game.id}">
-             View Game
+          <a class="btn" href="game.html?id=${game.id}">
+            View Game
           </a>
         </div>
       </div>

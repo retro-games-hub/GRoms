@@ -14,28 +14,53 @@
   <p>Your personal game download library</p>
 </header>
 
-<main class="container">
+<main class="container layout">
 
-  <div class="filters">
-    <input id="searchInput" type="text" placeholder="Search games..." />
+  <section class="main-content">
 
-    <select id="categoryFilter">
-      <option value="">All Categories</option>
-    </select>
+    <div class="filters">
+      <input id="searchInput" type="text" placeholder="Search games..." />
 
-    <select id="platformFilter">
-      <option value="">All Platforms</option>
-    </select>
+      <select id="categoryFilter">
+        <option value="">All Categories</option>
+      </select>
 
-    <select id="sortSelect">
-      <option value="az">Name A-Z</option>
-      <option value="za">Name Z-A</option>
-      <option value="newest">Newest</option>
-      <option value="oldest">Oldest</option>
-    </select>
-  </div>
+      <select id="platformFilter">
+        <option value="">All Platforms</option>
+      </select>
 
-  <div id="gamesGrid" class="games-grid"></div>
+      <select id="sortSelect">
+        <option value="az">Name A-Z</option>
+        <option value="za">Name Z-A</option>
+        <option value="newest">Newest</option>
+        <option value="oldest">Oldest</option>
+      </select>
+    </div>
+
+    <div id="gamesGrid" class="games-grid"></div>
+
+  </section>
+
+  <aside class="sidebar">
+
+    <div class="widget">
+      <h3>Last Added</h3>
+
+      <div id="lastAddedGames"></div>
+    </div>
+
+    <div class="widget">
+      <h3 id="randomCategoryTitle">
+        Random Category
+      </h3>
+
+      <div id="randomCategoryGames"></div>
+      <button id="newCategoryBtn" class="btn">
+        🎲 New Category
+      </button>
+    </div>
+
+  </aside>
 
 </main>
 

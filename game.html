@@ -15,13 +15,32 @@
   <a class="back-link" href="index.html">← Back to games</a>
 </header>
 
-<main class="container">
-  <div id="gameDetails"></div>
+<main class="container layout">
+    <section class="main-content">
+        <div id="gameDetails"></div>
+    </section>
+
+    <aside class="sidebar">
+        <div class="widget">
+            <h3>Last Added</h3>
+            <div id="lastAddedGames"></div>
+        </div>
+        <div class="widget">
+            <h3 id="randomCategoryTitle">
+                Random Category
+            </h3>
+            <div id="randomCategoryGames"></div>
+            <button id="newCategoryBtn" class="btn">
+                🎲 New Category
+            </button>
+        </div>
+    </aside>
+    
   <section class="recommended-section">
     <h2>Recommended Games</h2>
-
     <div id="recommendedGames" class="games-grid"></div>
   </section>
+
 </main>
 
 <div id="lightbox" class="lightbox">

@@ -12,6 +12,18 @@ fetch("games.json")
     games = data;
     fillFilters();
     renderGames();
+    renderLastAdded(games);
+    renderRandomCategory(games);
+
+    const newCategoryBtn =
+      document.getElementById("newCategoryBtn");
+
+    if (newCategoryBtn) {
+      newCategoryBtn.addEventListener("click", () => {
+        renderRandomCategory(games);
+      });
+    }
+
   })
   .catch(error => {
     gamesGrid.innerHTML = `
@@ -41,6 +53,103 @@ function fillFilters() {
   });
 }
 
+function renderLastAdded(games) {
+
+  const container =
+    document.getElementById("lastAddedGames");
+
+  if (!container) return;
+
+  const latestGames = [...games]
+    .sort((a, b) => b.id - a.id)
+    .slice(0, 3);
+
+  container.innerHTML = "";
+
+  latestGames.forEach(game => {
+
+    container.innerHTML += `
+      <div class="sidebar-game">
+
+        <img src="${game.cover}" alt="${game.title}">
+
+        <div class="sidebar-game-info">
+
+          <a href="game.html?id=${game.id}">
+            ${game.title}
+          </a>
+
+          <p>${game.releaseDate?.year || ""}</p>
+
+        </div>
+
+      </div>
+    `;
+  });
+}
+
+function renderRandomCategory(games) {
+
+  const container =
+    document.getElementById("randomCategoryGames");
+
+  const title =
+    document.getElementById("randomCategoryTitle");
+
+  if (!container || !title) return;
+
+  const allCategories = [
+    ...new Set(
+      games.flatMap(game => game.category)
+    )
+  ];
+
+  const randomCategory =
+    allCategories[
+      Math.floor(
+        Math.random() * allCategories.length
+      )
+    ];
+
+  title.textContent =
+    `Random Category: ${randomCategory}`;
+
+  const selectedGames = games
+    .filter(game =>
+      game.category.includes(randomCategory)
+    )
+    .sort(() => Math.random() - 0.5)
+    .slice(0, 3);
+
+  container.innerHTML = "";
+
+  selectedGames.forEach(game => {
+
+    container.innerHTML += `
+      <div class="sidebar-game">
+
+        <img
+          src="${game.cover}"
+          alt="${game.title}"
+        >
+
+        <div class="sidebar-game-info">
+
+          <a href="game.html?id=${game.id}">
+            ${game.title}
+          </a>
+
+          <p>
+            ${game.releaseDate?.year || ""}
+          </p>
+
+        </div>
+
+      </div>
+    `;
+  });
+}
+
 function renderGames() {
   let filteredGames = [...games];
 
@@ -66,11 +175,15 @@ function renderGames() {
   }
 
   if (sortValue === "newest") {
-    filteredGames.sort((a, b) => b.year - a.year);
+    filteredGames.sort(
+      (a, b) => (b.releaseDate?.year || 0) - (a.releaseDate?.year || 0)
+    );
   }
 
   if (sortValue === "oldest") {
-    filteredGames.sort((a, b) => a.year - b.year);
+    filteredGames.sort(
+      (a, b) => (a.releaseDate?.year || 0) - (b.releaseDate?.year || 0)
+    );
   }
 
   gamesGrid.innerHTML = "";
@@ -86,7 +199,7 @@ function renderGames() {
         <img src="${game.cover}" alt="${game.title}">
         <div class="game-card-content">
           <h3>${game.title}</h3>
-          <p>${game.platform} • ${game.category} • ${game.year}</p>
+          <p>${game.platform} • ${game.category} • ${game.releaseDate?.year || "Unknown"}</p>
           <a class="btn" href="game.html?id=${game.id}">View Game</a>
         </div>
       </div>

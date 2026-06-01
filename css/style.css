@@ -95,6 +95,8 @@ select {
   color: white;
   border-radius: 8px;
   text-decoration: none;
+  width: 100%;
+  text-align: center;
 }
 
 .game-detail {
@@ -130,7 +132,7 @@ select {
 .trailer {
   margin-top: 25px;
   width: 100%;
-  height: 400px;
+  height: 550px;
   border: none;
   border-radius: 16px;
 }
@@ -179,11 +181,13 @@ select {
 }
 
 .gallery-section {
-  margin-top: 30px;
+  margin-top: 5px;
+  padding: 20px;
 }
 
 .trailer-section {
-  margin-top: 35px;
+  margin-top: 5px;
+  padding: 20px;
 }
 
 .gallery {
@@ -193,17 +197,22 @@ select {
 }
 
 .gallery img {
-  width: 180px;
-  height: 110px;
+  width: 250px;
+  height: 150px;
   object-fit: cover;
   border-radius: 10px;
+}
+
+.download-info{
+  display: flex;
+  gap: 15px;
 }
 
 .download-box {
   background: #111827;
   padding: 20px;
   border-radius: 12px;
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
 .download-box select {
@@ -332,4 +341,88 @@ select {
 
 .next-btn {
   right: 30px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 25px;
+}
+
+.main-content {
+  min-width: 0;
+}
+
+.sidebar {
+  position: sticky;
+  top: 20px;
+  height: fit-content;
+}
+
+.widget {
+  background: #1f2937;
+  border-radius: 12px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.widget h3 {
+  margin-bottom: 15px;
+}
+
+.sidebar-game {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.sidebar-game img {
+  width: 60px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.sidebar-game-info {
+  flex: 1;
+}
+
+.sidebar-game-info a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.sidebar-game-info p {
+  color: #9ca3af;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+.btn#newCategoryBtn {
+    width: 100%;
+    margin-top: 12px;
+    padding: 10px 15px;
+
+    background: #2563eb;
+    color: white;
+
+    border: none;
+    border-radius: 8px;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+.btn#newCategoryBtn:hover {
+    background: #1d4ed8;
+}
+
+.btn#newCategoryBtn:active {
+    transform: scale(0.98);
 }
