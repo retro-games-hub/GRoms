@@ -78,7 +78,7 @@
     "downloads": {
       "USA": "https://drive.google.com/uc?export=download&id=1JQjCCmUdtn594rLS6QeCwAOspntfGr61",
       "Europe": "https://drive.google.com/uc?export=download&id=19jci5I_X9cudSq_uV84WiJtXWIMEoXuz",
-      "Russia": "",
+      "Russia": "https://drive.google.com/uc?export=download&id=1tXp2b-Qvg-hAO0IjO6Ll70rhGKC_zLVE",
       "Japan": "https://drive.google.com/uc?export=download&id=13WL6AL-_nVZIPf0ftnxBUowf9OnF84cU"
     }
   },
@@ -107,7 +107,7 @@
     "downloads": {
       "USA": "https://drive.google.com/uc?export=download&id=19ccF_CAZtVAWDfwv6yVKGrNBX5-pyhZ-",
       "Europe": "https://drive.google.com/uc?export=download&id=1ZoOQw-4bXop6_x2LDDkplkJIV4iOsyqX",
-      "Russia": "",
+      "Russia": "https://drive.google.com/uc?export=download&id=1kbUvJXTX-p2H1AwxE4PbO9ldHA_Nkvw-",
       "Japan": "https://drive.google.com/uc?export=download&id=1QTF7BS-L7PS9fqvmqGwEaMtIVo7exNPS"
     }
   },
@@ -136,7 +136,7 @@
     "downloads": {
       "USA": "https://drive.google.com/uc?export=download&id=15fzGYeFfTDn_SjGgUCw0yXjuq6tnUmNC",
       "Europe": "https://drive.google.com/uc?export=download&id=1hPhkLyWbt6trvxcvkuPRRCUyRnidPB7g",
-      "Russia": ""
+      "Russia": "https://drive.google.com/uc?export=download&id=1C71O0_rvpyvOazbBYRVaAQxJQKZv2ryR"
     }
   },
   {
@@ -164,7 +164,7 @@
     "downloads": {
       "USA": "https://drive.google.com/uc?export=download&id=1XAffHN8ag425-ro75fZYhR3qQKW1Q2Tl",
       "Europe": "https://drive.google.com/uc?export=download&id=1lFsSTGK4XyG2jn9WZrWPirOymYhft6pk",
-      "Russia": ""
+      "Russia": "https://drive.google.com/uc?export=download&id=1HOyXyS9HJfaNs3RgHFy7o3Dw3CqEkw6a"
     }
   },
   {
@@ -546,6 +546,62 @@
     "downloads": {
       "USA": "https://drive.google.com/uc?export=download&id=175mKS-ghQaRPaPp1ygAjYyXr-wPwVvqv",
       "Russia": "https://drive.google.com/uc?export=download&id=1NT5f2OtwbDHaD1TxWulhjKcibInnU8Gg"
+    }
+  },
+  {
+    "id": 21,
+    "title": "Spider-Man: Friend or Foe",
+    "category": ["Action", "Adventure"],
+    "platform": "PS2",
+    "releaseDate": {
+      "year": 2007,
+      "month": 10,
+      "day": 2
+    },
+    "publisher": "Activision, Next Level Games",
+    "languages": ["English", "Russian", "French", "German", "Italian", "Spanish"],
+    "userScore": 6.2,
+
+    "cover": "images/spider-man_friend_or_foe_ps2.png",
+    "images": [
+      "images/spider-man_friend_or_foe_ps2-1.webp",
+      "images/spider-man_friend_or_foe_ps2-2.webp",
+      "images/spider-man_friend_or_foe_ps2-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/3H_4ot_88Ts",
+    "description": "Spider-Man: Friend or Foe is a 2007 action-adventure game for the PlayStation 2. Inspired by the Spider-Man films, it features a unique storyline where Spider-Man teams up with former enemies to stop a mysterious threat. Players can switch between Spider-Man and various allies, using different abilities and combination attacks to defeat enemies and solve obstacles. The game supports single-player and two-player cooperative gameplay, with the second player taking control of Spider-Man's allies.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=175mKS-ghQaRPaPp1ygAjYyXr-wPwVvqv",
+      "Europe": "https://drive.google.com/uc?export=download&id=175mKS-ghQaRPaPp1ygAjYyXr-wPwVvqv",
+      "Russia": "https://drive.google.com/uc?export=download&id=1NT5f2OtwbDHaD1TxWulhjKcibInnU8Gg"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Legacy of Kain - Soul Reaver",
+    "category": ["Action", "Adventure"],
+    "platform": "PS1",
+    "releaseDate": {
+      "year": 1999,
+      "month": 6,
+      "day": 24
+    },
+    "publisher": "Eidos Interactive",
+    "languages": ["English", "Russian"],
+    "userScore": 9.1,
+
+    "cover": "images/legacy_of_kain_soul_reaver_ps1.png",
+    "images": [
+      "images/legacy_of_kain_soul_reaver_ps1-1.webp",
+      "images/legacy_of_kain_soul_reaver_ps1-2.webp",
+      "images/legacy_of_kain_soul_reaver_ps1-3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/WApA3a7rUho",
+    "description": "Legacy of Kain: Soul Reaver is a 1999 action-adventure game for the original PlayStation. Players take control of Raziel, a vampire who is betrayed and left for dead by his master, Kain. Reborn as a spectral creature, Raziel sets out to take revenge while uncovering the secrets behind Nosgoth and his own fate. The game combines exploration, combat, environmental puzzles, and a dark gothic atmosphere. Raziel can travel between the Material and Spectral Realms, using this ability to access new areas and solve puzzles.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1ZAOM1H2ou0bmC5M2NLzUUrvonpya40q8",
+      "Europe": "https://drive.google.com/uc?export=download&id=1vZ9qHiuPdVHz-dytXUO-mJTLcY96lmsI",
+      "Russia": "https://drive.google.com/uc?export=download&id=1t4rOcH8eJf4rxrcYVoNdiITIoSMK25rA"
     }
   }
 ]
