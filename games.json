@@ -13,11 +13,11 @@
     "languages": ["English", "French", "German"],
     "userScore": 6.6,
 
-    "cover": "images/harry_potter_and_the_sorcerers_stone_ps2.png",
+    "cover": "images/covers/harry_potter_and_the_sorcerers_stone_ps2.png",
     "images": [
-      "images/harry_potter_and_the_sorcerers_stone_ps2-1.webp",
-      "images/harry_potter_and_the_sorcerers_stone_ps2-2.webp",
-      "images/harry_potter_and_the_sorcerers_stone_ps2-3.webp"
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_ps2/1.webp",
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_ps2/2.webp",
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_ps2/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/MKbikWYqUYE",
     "description": "Harry Potter and the Sorcerer's Stone is an action-adventure game based on the first Harry Potter movie and book. Players explore Hogwarts School of Witchcraft and Wizardry, learn magic spells, solve puzzles, fly on broomsticks, and face magical creatures while following Harry’s first year at Hogwarts. The PS2 version features improved graphics, expanded castle exploration, mini-games, secret areas, and cinematic storytelling inspired by the Wizarding World.",
@@ -40,11 +40,11 @@
     "languages": ["English", "French", "German"],
     "userScore": 7.6,
 
-    "cover": "images/harry_potter_and_the_chamber_of_secrets_ps2.png",
+    "cover": "images/covers/harry_potter_and_the_chamber_of_secrets_ps2.png",
     "images": [
-      "images/harry_potter_and_the_chamber_of_secrets_ps2-1.webp",
-      "images/harry_potter_and_the_chamber_of_secrets_ps2-2.webp",
-      "images/harry_potter_and_the_chamber_of_secrets_ps2-3.webp"
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_ps2/1.webp",
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_ps2/2.webp",
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_ps2/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/i6pjwf3fX9o",
     "description": "Harry Potter and the Chamber of Secrets is an action-adventure game based on the second Harry Potter movie and book. Players return to Hogwarts as Harry Potter and explore a larger magical world filled with secrets, puzzles, and dangerous creatures. Learn new spells, attend classes, fly on broomsticks, duel wizards, and uncover the mystery behind the Chamber of Secrets while facing the dark forces threatening the school. The PS2 version includes detailed environments, expanded exploration, mini-games, and cinematic moments from the Wizarding World.",
@@ -67,11 +67,11 @@
     "languages": ["English", "French", "German", "Russian", "Japan" ],
     "userScore": 7.2,
 
-    "cover": "images/harry_potter_and_the_sorcerers_stone_ps1.png",
+    "cover": "images/covers/harry_potter_and_the_sorcerers_stone_ps1.png",
     "images": [
-      "images/harry_potter_and_the_sorcerers_stone_ps1-1.webp",
-      "images/harry_potter_and_the_sorcerers_stone_ps1-2.webp",
-      "images/harry_potter_and_the_sorcerers_stone_ps1-3.webp"
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_ps1/1.webp",
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_ps1/2.webp",
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_ps1/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/guMnhX1Qdlw",
     "description": "Harry Potter and the Chamber of Secrets is an action-adventure game based on the second Harry Potter movie and book. Players return to Hogwarts as Harry Potter and explore a larger magical world filled with secrets, puzzles, and dangerous creatures. Learn new spells, attend classes, fly on broomsticks, duel wizards, and uncover the mystery behind the Chamber of Secrets while facing the dark forces threatening the school. The PS2 version includes detailed environments, expanded exploration, mini-games, and cinematic moments from the Wizarding World.",
@@ -96,11 +96,11 @@
     "languages": ["English", "French", "German", "Russian", "Japan" ],
     "userScore": 7.6,
 
-    "cover": "images/harry_potter_and_the_chamber_of_secrets_ps1.png",
+    "cover": "images/covers/harry_potter_and_the_chamber_of_secrets_ps1.png",
     "images": [
-      "images/harry_potter_and_the_chamber_of_secrets_ps1-1.webp",
-      "images/harry_potter_and_the_chamber_of_secrets_ps1-2.webp",
-      "images/harry_potter_and_the_chamber_of_secrets_ps1-3.webp"
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_ps1/1.webp",
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_ps1/2.webp",
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_ps1/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/Sk42bEPSHdU",
     "description": "Harry Potter and the Chamber of Secrets is an action-adventure game based on the second Harry Potter movie and book. Players return to Hogwarts as Harry Potter and explore a larger magical world filled with secrets, puzzles, and dangerous creatures. Learn new spells, attend classes, fly on broomsticks, duel wizards, and uncover the mystery behind the Chamber of Secrets while facing the dark forces threatening the school. The PS2 version includes detailed environments, expanded exploration, mini-games, and cinematic moments from the Wizarding World.",
@@ -125,11 +125,11 @@
     "languages": ["English", "French", "Russian"],
     "userScore": 8.5,
 
-    "cover": "images/spider-man_ps1.png",
+    "cover": "images/covers/spider-man_ps1.png",
     "images": [
-      "images/spider-man_ps1-1.webp",
-      "images/spider-man_ps1-2.webp",
-      "images/spider-man_ps1-3.webp"
+      "images/screenshots/spider-man_ps1/1.webp",
+      "images/screenshots/spider-man_ps1/2.webp",
+      "images/screenshots/spider-man_ps1/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/TADSKouU6l8",
     "description": "Spider-Man is an action-adventure game based on Marvel’s iconic superhero. Players swing through New York City, fight famous villains such as Venom, Doctor Octopus, Carnage, and Mysterio, and use Spider-Man’s acrobatic abilities, web attacks, and gadgets to stop dangerous criminal plans. The game features comic-inspired storytelling, fast-paced combat, platforming sections, secret collectibles, and voice acting from characters of the Marvel universe, delivering a classic superhero experience on the PlayStation.",
@@ -153,11 +153,11 @@
     "languages": ["English", "French", "Russian"],
     "userScore": 8.2,
 
-    "cover": "images/spider-man_2_enter_electro_ps1.png",
+    "cover": "images/covers/spider-man_2_enter_electro_ps1.png",
     "images": [
-      "images/spider-man_2_enter_electro_ps1-1.webp",
-      "images/spider-man_2_enter_electro_ps1-2.webp",
-      "images/spider-man_2_enter_electro_ps1-3.webp"
+      "images/screenshots/spider-man_2_enter_electro_ps1/1.webp",
+      "images/screenshots/spider-man_2_enter_electro_ps1/2.webp",
+      "images/screenshots/spider-man_2_enter_electro_ps1/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/GeJIUSzKzBE",
     "description": "Spider-Man 2: Enter Electro is an action-adventure sequel where Spider-Man faces the powerful villain Electro and his dangerous plans involving advanced technology and energy weapons. Players explore rooftops, laboratories, museums, and city environments while battling classic Marvel enemies using web-swinging, combat moves, stealth, and puzzle-solving mechanics. The game expands on the original with new abilities, improved visuals, additional costumes, and cinematic comic-style storytelling for an exciting superhero adventure on the PlayStation.",
@@ -181,11 +181,11 @@
     "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
     "userScore": 7.8,
 
-    "cover": "images/harry-potter-prisoner-of-azkaban_gba.png",
+    "cover": "images/covers/harry_potter_and_the_prisoner_of_azkaban_gba.png",
     "images": [
-      "images/harry-potter-prisoner-of-azkaban_gba-1.webp",
-      "images/harry-potter-prisoner-of-azkaban_gba-2.webp",
-      "images/harry-potter-prisoner-of-azkaban_gba-3.webp"
+      "images/screenshots/harry_potter_and_the_prisoner_of_azkaban_gba/1.webp",
+      "images/screenshots/harry_potter_and_the_prisoner_of_azkaban_gba/2.webp",
+      "images/screenshots/harry_potter_and_the_prisoner_of_azkaban_gba/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/Ln6XwAo9BXc",
     "description": "Harry Potter and the Prisoner of Azkaban is a role-playing adventure game based on the third Harry Potter movie and book. Players control Harry, Ron, and Hermione as they explore Hogwarts, attend classes, solve magical puzzles, and uncover the mystery surrounding Sirius Black and the escaped prisoners of Azkaban. The Game Boy Advance version features turn-based combat, spell learning, character switching, collectible items, and exploration inspired by classic RPG games while following the darker and more mysterious story of Harry’s third year at Hogwarts.",
@@ -208,11 +208,11 @@
     "languages": ["English", "French", "Russian", "Japan"],
     "userScore": 8.9,
 
-    "cover": "images/phoenix_wright_ace_attorney_nds.png",
+    "cover": "images/covers/phoenix_wright_ace_attorney_nds.png",
     "images": [
-      "images/phoenix_wright_ace_attorney_nds-1.webp",
-      "images/phoenix_wright_ace_attorney_nds-2.webp",
-      "images/phoenix_wright_ace_attorney_nds-3.webp"
+      "images/screenshots/phoenix_wright_ace_attorney_nds/1.webp",
+      "images/screenshots/phoenix_wright_ace_attorney_nds/2.webp",
+      "images/screenshots/phoenix_wright_ace_attorney_nds/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/XEH0vH5QUyk",
     "description": "Phoenix Wright: Ace Attorney is a visual novel adventure game where players take the role of rookie defense attorney Phoenix Wright as he investigates crimes, questions witnesses, gathers evidence, and defends innocent clients in dramatic courtroom trials. Originally released for the Nintendo DS, the game combines detective gameplay, puzzle-solving, and intense cross-examinations where players must spot contradictions and present evidence to uncover the truth. Featuring memorable characters, humorous dialogue, and suspenseful cases, Phoenix Wright: Ace Attorney became one of the most iconic courtroom adventure games on the Nintendo DS.",
@@ -237,11 +237,11 @@
     "languages": ["English", "French", "Spanish", "German", "Italian", "Russian"],
     "userScore": 8.8,
 
-    "cover": "images/god_of_war_ghost_of_sparta_psp.png",
+    "cover": "images/covers/god_of_war_ghost_of_sparta_psp.png",
     "images": [
-      "images/god_of_war_ghost_of_sparta_psp-1.webp",
-      "images/god_of_war_ghost_of_sparta_psp-2.webp",
-      "images/god_of_war_ghost_of_sparta_psp-3.webp"
+      "images/screenshots/god_of_war_ghost_of_sparta_psp/1.webp",
+      "images/screenshots/god_of_war_ghost_of_sparta_psp/2.webp",
+      "images/screenshots/god_of_war_ghost_of_sparta_psp/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/bDN3aUzyctY",
     "description": "God of War: Ghost of Sparta is an action-adventure game developed exclusively for the PlayStation Portable. Players once again control Kratos, the Ghost of Sparta, as he embarks on a brutal journey to uncover the truth about his past and his family. The game features intense hack-and-slash combat, powerful magical abilities, cinematic boss battles, and large mythological environments inspired by ancient Greece. With improved visuals, fast-paced gameplay, puzzles, and an emotional story connected to the main God of War series, Ghost of Sparta delivers one of the most technically impressive and action-packed experiences on the PSP.",
@@ -265,11 +265,11 @@
     "languages": ["English", "Japan"],
     "userScore": 6.5,
 
-    "cover": "images/naruto_ninja_council_gba.png",
+    "cover": "images/covers/naruto_ninja_council_gba.png",
     "images": [
-      "images/naruto_ninja_council_gba-1.webp",
-      "images/naruto_ninja_council_gba-2.webp",
-      "images/naruto_ninja_council_gba-3.webp"
+      "images/screenshots/naruto_ninja_council_gba/1.webp",
+      "images/screenshots/naruto_ninja_council_gba/2.webp",
+      "images/screenshots/naruto_ninja_council_gba/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/aMax1rVYxcw",
     "description": "Naruto: Ninja Council is a side-scrolling action game based on the popular Naruto anime and manga series. Players control Naruto Uzumaki and other familiar ninja characters while completing missions, battling enemies, and using special ninja techniques inspired by the anime. The Game Boy Advance version features fast-paced combat, platforming gameplay, unlockable characters, and iconic moves such as Shadow Clone Jutsu and Rasengan, delivering an action-filled portable ninja adventure.",
@@ -292,11 +292,11 @@
     "languages": ["English", "Japan"],
     "userScore": 6.3,
 
-    "cover": "images/naruto_ninja_council_2_gba.png",
+    "cover": "images/covers/naruto_ninja_council_2_gba.png",
     "images": [
-      "images/naruto_ninja_council_2_gba-1.webp",
-      "images/naruto_ninja_council_2_gba-2.webp",
-      "images/naruto_ninja_council_2_gba-3.webp"
+      "images/screenshots/naruto_ninja_council_2_gba/1.webp",
+      "images/screenshots/naruto_ninja_council_2_gba/2.webp",
+      "images/screenshots/naruto_ninja_council_2_gba/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/2FBQxpJ2hl0",
     "description": "Naruto: Ninja Council 2 is an action-platformer game that expands on the original Ninja Council with new missions, improved gameplay mechanics, and additional playable characters from the Naruto universe. Players fight through various stages using ninja attacks, special jutsu abilities, and character-specific skills while reliving moments inspired by the anime series. The Game Boy Advance version includes multiplayer support, unlockable content, and faster combat, making it a more dynamic ninja experience for portable gaming fans.",
@@ -319,11 +319,11 @@
     "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Norwegian", "Portuguese", "Spanish", "Swedish", "Russian", "Japan"],
     "userScore": 6.3,
 
-    "cover": "images/harry_potter_and_the_sorcerers_stone_gba.png",
+    "cover": "images/covers/harry_potter_and_the_sorcerers_stone_gba.png",
     "images": [
-      "images/harry_potter_sorcerers_stone_gba-1.webp",
-      "images/harry_potter_sorcerers_stone_gba-2.webp",
-      "images/harry_potter_sorcerers_stone_gba-3.webp"
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_gba/1.webp",
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_gba/2.webp",
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_gba/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/xbOEa3tddTo",
     "description": "Harry Potter and the Sorcerer’s Stone is a role-playing adventure game based on the first Harry Potter movie and book. Players control Harry Potter during his first year at Hogwarts School of Witchcraft and Wizardry, learning magical spells, exploring castle locations, solving puzzles, and battling dangerous creatures. The Game Boy Advance version features turn-based combat, character interactions, collectible items, and RPG-inspired gameplay while following the story of Harry discovering the magical world and confronting the mystery surrounding the Sorcerer’s Stone.Harry Potter and the Sorcerer’s Stone is a role-playing adventure game based on the first Harry Potter movie and book. Players control Harry Potter during his first year at Hogwarts School of Witchcraft and Wizardry, learning magical spells, exploring castle locations, solving puzzles, and battling dangerous creatures. The Game Boy Advance version features turn-based combat, character interactions, collectible items, and RPG-inspired gameplay while following the story of Harry discovering the magical world and confronting the mystery surrounding the Sorcerer’s Stone.",
@@ -346,11 +346,11 @@
     "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Norwegian", "Portuguese", "Spanish", "Swedish", "Russian"],
     "userScore": 6.3,
 
-    "cover": "images/harry_potter_and_the_chamber_of_secrets_gba.png",
+    "cover": "images/covers/harry_potter_and_the_chamber_of_secrets_gba.png",
     "images": [
-      "images/harry_potter_and_the_chamber_of_secrets_gba-1.webp",
-      "images/harry_potter_and_the_chamber_of_secrets_gba-2.webp",
-      "images/harry_potter_and_the_chamber_of_secrets_gba-3.webp"
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_gba/1.webp",
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_gba/2.webp",
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_gba/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/mZk8tv8aAqA",
     "description": "Harry Potter and the Chamber of Secrets is a role-playing adventure game based on the second Harry Potter movie and book. Players guide Harry through his second year at Hogwarts while investigating the mysterious attacks occurring inside the school and uncovering the secrets hidden within the Chamber of Secrets. The Game Boy Advance version includes turn-based battles, spell learning, exploration, puzzles, mini-games, and interactions with familiar characters from the Wizarding World, delivering a deeper RPG-style magical adventure on handheld consoles.",
@@ -373,11 +373,11 @@
     "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Norwegian", "Portuguese", "Spanish", "Swedish"],
     "userScore": 7.2,
 
-    "cover": "images/harry_potter_sorcerers_stone_gbc.png",
+    "cover": "images/covers/harry_potter_and_the_sorcerers_stone_gbc.png",
     "images": [
-      "images/harry_potter_and_the_sorcerers_stone_gbc-1.webp",
-      "images/harry_potter_and_the_sorcerers_stone_gbc-2.webp",
-      "images/harry_potter_and_the_sorcerers_stone_gbc-3.webp"
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_gbc/1.webp",
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_gbc/2.webp",
+      "images/screenshots/harry_potter_and_the_sorcerers_stone_gbc/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/dIZaJmY3w2Q",
     "description": "Harry Potter and the Sorcerer’s Stone is a role-playing adventure game for the Game Boy Color based on the first Harry Potter book and movie. Players control Harry Potter as he begins his first year at Hogwarts School of Witchcraft and Wizardry, learning spells, attending classes, exploring magical locations, and battling enemies using turn-based combat. The game features RPG mechanics, collectible wizard cards, puzzles, and interactions with iconic characters from the Wizarding World while following the story of the Sorcerer’s Stone.",
@@ -399,11 +399,11 @@
     "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Norwegian", "Portuguese", "Spanish", "Swedish"],
     "userScore": 7.2,
 
-    "cover": "images/harry_potter_and_the_chamber_of_secrets_gbc.png",
+    "cover": "images/covers/harry_potter_and_the_chamber_of_secrets_gbc.png",
     "images": [
-      "images/harry_potter_and_the_chamber_of_secrets_gbc-1.webp",
-      "images/harry_potter_and_the_chamber_of_secrets_gbc-2.webp",
-      "images/harry_potter_and_the_chamber_of_secrets_gbc-3.webp"
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_gbc/1.webp",
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_gbc/2.webp",
+      "images/screenshots/harry_potter_and_the_chamber_of_secrets_gbc/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/U6YuIfPeMT4",
     "description": "Harry Potter and the Chamber of Secrets is a role-playing adventure game for the Game Boy Color inspired by the second Harry Potter book and movie. Players return to Hogwarts as Harry Potter to investigate the mysterious events threatening the school and uncover the secrets hidden inside the legendary Chamber of Secrets. The game features turn-based battles, spell upgrades, exploration, side quests, puzzles, and interactions with familiar characters, delivering a classic handheld RPG experience set in the Wizarding World.",
@@ -414,7 +414,7 @@
   {
     "id": 16,
     "title": "Harry Potter - Quidditch World Cup",
-    "category": ["Action", "sport"],
+    "category": ["Action", "Sport"],
     "platform": "GBA",
     "releaseDate": {
       "year": 2003,
@@ -425,11 +425,11 @@
     "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
     "userScore": 6.7,
 
-    "cover": "images/harry_potter_quidditch_world_cup_gba.png",
+    "cover": "images/covers/harry_potter_quidditch_world_cup_gba.png",
     "images": [
-      "images/harry_potter_quidditch_world_cup_gba-1.webp",
-      "images/harry_potter_quidditch_world_cup_gba-2.webp",
-      "images/harry_potter_quidditch_world_cup_gba-3.webp"
+      "images/screenshots/harry_potter_quidditch_world_cup_gba/1.webp",
+      "images/screenshots/harry_potter_quidditch_world_cup_gba/2.webp",
+      "images/screenshots/harry_potter_quidditch_world_cup_gba/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/3katv6_I5WY",
     "description": "Harry Potter: Quidditch World Cup is a sports game based on the magical Quidditch tournaments from the Harry Potter universe. Players take control of Hogwarts house teams and international wizarding teams while competing in fast-paced aerial matches using broomsticks, special moves, and magical gameplay mechanics. The Game Boy Advance version features arcade-style Quidditch action, tournaments, unlockable teams, and character progression inspired by the Wizarding World, allowing players to experience the excitement of magical sports competition on a handheld console.",
@@ -452,11 +452,11 @@
     "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
     "userScore": 5.3,
 
-    "cover": "images/harry_potter_and_the_goblet_of_fire_gba.png",
+    "cover": "images/covers/harry_potter_and_the_goblet_of_fire_gba.png",
     "images": [
-      "images/harry_potter_and_the_goblet_of_fire_gba-1.webp",
-      "images/harry_potter_and_the_goblet_of_fire_gba-2.webp",
-      "images/harry_potter_and_the_goblet_of_fire_gba-3.webp"
+      "images/screenshots/harry_potter_and_the_goblet_of_fire_gba/1.webp",
+      "images/screenshots/harry_potter_and_the_goblet_of_fire_gba/2.webp",
+      "images/screenshots/harry_potter_and_the_goblet_of_fire_gba/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/vj33-6odSlA",
     "description": "Harry Potter and the Goblet of Fire is an action-adventure game based on the fourth Harry Potter movie and book. Players control Harry, Ron, and Hermione as they battle magical creatures, solve puzzles, and relive major moments from the Triwizard Tournament. The Game Boy Advance version features cooperative gameplay mechanics, spell-based combat, exploration, collectible items, and level progression inspired by the darker storyline of Harry’s fourth year at Hogwarts and the return of Lord Voldemort.",
@@ -479,11 +479,11 @@
     "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
     "userScore": 5.7,
 
-    "cover": "images/harry_potter_and_the_order_of_the_phoenix_gba.png",
+    "cover": "images/covers/harry_potter_and_the_order_of_the_phoenix_gba.png",
     "images": [
-      "images/harry_potter_and_the_order_of_the_phoenix_gba-1.webp",
-      "images/harry_potter_and_the_order_of_the_phoenix_gba-2.webp",
-      "images/harry_potter_and_the_order_of_the_phoenix_gba-3.webp"
+      "images/screenshots/harry_potter_and_the_order_of_the_phoenix_gba/1.webp",
+      "images/screenshots/harry_potter_and_the_order_of_the_phoenix_gba/2.webp",
+      "images/screenshots/harry_potter_and_the_order_of_the_phoenix_gba/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/NFUhWxwA3GY",
     "description": "Harry Potter and the Order of the Phoenix is an action-adventure game inspired by the fifth Harry Potter movie and book. Players join Harry Potter and Dumbledore’s Army as they explore Hogwarts, practice defensive magic, complete missions, and fight against the growing influence of dark forces within the wizarding world. The Game Boy Advance version features spell-casting gameplay, exploration, mini-games, character interactions, and story-driven progression based on Harry’s struggle against the Ministry of Magic and Lord Voldemort’s return.",
@@ -506,11 +506,11 @@
     "languages": ["English", "Danish", "Dutch", "French", "German", "Italian", "Spanish", "Russian"],
     "userScore": 7.8,
 
-    "cover": "images/castlevania_nes.png",
+    "cover": "images/covers/castlevania_nes.png",
     "images": [
-      "images/castlevania_nes-1.webp",
-      "images/castlevania_nes-2.webp",
-      "images/castlevania_nes-3.webp"
+      "images/screenshots/castlevania_nes/1.webp",
+      "images/screenshots/castlevania_nes/2.webp",
+      "images/screenshots/castlevania_nes/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/hlGueL3Kb9E",
     "description": "Castlevania is a classic action-platformer game released for the Nintendo Entertainment System where players take control of vampire hunter Simon Belmont on a dangerous journey through Dracula’s castle. Armed with the legendary Vampire Killer whip and various sub-weapons, players battle monsters, traps, skeletons, ghosts, and powerful bosses inspired by gothic horror mythology. Featuring challenging gameplay, atmospheric level design, memorable music, and iconic retro visuals, Castlevania became one of the most influential action games on the NES and a defining title in the classic horror gaming genre.",
@@ -535,11 +535,11 @@
     "languages": ["English", "Russian"],
     "userScore": 5.4,
 
-    "cover": "images/harry_potter_and_the_goblet_of_fire_psp.png",
+    "cover": "images/covers/harry_potter_and_the_goblet_of_fire_psp.png",
     "images": [
-      "images/harry_potter_and_the_goblet_of_fire_psp-1.webp",
-      "images/harry_potter_and_the_goblet_of_fire_psp-2.webp",
-      "images/harry_potter_and_the_goblet_of_fire_psp-3.webp"
+      "images/screenshots/harry_potter_and_the_goblet_of_fire_psp/1.webp",
+      "images/screenshots/harry_potter_and_the_goblet_of_fire_psp/2.webp",
+      "images/screenshots/harry_potter_and_the_goblet_of_fire_psp/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/N-8Hs9k5r4o",
     "description": "Harry Potter and the Goblet of Fire is an action-adventure game based on the fourth Harry Potter movie and book. Players take control of Harry Potter, Ron Weasley, and Hermione Granger as they relive key events from Harry’s fourth year at Hogwarts, including the dangerous Triwizard Tournament and the return of Lord Voldemort. The PSP version features cooperative spell-casting gameplay, magical combat, puzzle-solving, and exploration across iconic locations from the Wizarding World. Players can unlock collector cards, improve magical abilities, and work together to overcome challenges inspired by the film’s most memorable moments.",
@@ -562,18 +562,18 @@
     "languages": ["English", "Russian", "French", "German", "Italian", "Spanish"],
     "userScore": 6.2,
 
-    "cover": "images/spider-man_friend_or_foe_ps2.png",
+    "cover": "images/covers/spider-man_friend_or_foe_ps2.png",
     "images": [
-      "images/spider-man_friend_or_foe_ps2-1.webp",
-      "images/spider-man_friend_or_foe_ps2-2.webp",
-      "images/spider-man_friend_or_foe_ps2-3.webp"
+      "images/screenshots/spider-man_friend_or_foe_ps2/1.webp",
+      "images/screenshots/spider-man_friend_or_foe_ps2/2.webp",
+      "images/screenshots/spider-man_friend_or_foe_ps2/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/3H_4ot_88Ts",
     "description": "Spider-Man: Friend or Foe is a 2007 action-adventure game for the PlayStation 2. Inspired by the Spider-Man films, it features a unique storyline where Spider-Man teams up with former enemies to stop a mysterious threat. Players can switch between Spider-Man and various allies, using different abilities and combination attacks to defeat enemies and solve obstacles. The game supports single-player and two-player cooperative gameplay, with the second player taking control of Spider-Man's allies.",
     "downloads": {
-      "USA": "https://drive.google.com/uc?export=download&id=175mKS-ghQaRPaPp1ygAjYyXr-wPwVvqv",
-      "Europe": "https://drive.google.com/uc?export=download&id=175mKS-ghQaRPaPp1ygAjYyXr-wPwVvqv",
-      "Russia": "https://drive.google.com/uc?export=download&id=1NT5f2OtwbDHaD1TxWulhjKcibInnU8Gg"
+      "USA": "https://drive.google.com/uc?export=download&id=175mKS-1mCLSG_1CyzJRPTavRxweIcJoRRbo0la-",
+      "Europe": "https://drive.google.com/uc?export=download&id=1eReVlLkMj98dhqpE9daaIJk9UkEcZqWx",
+      "Russia": "https://drive.google.com/uc?export=download&id=1Bhm_-SQMA7xWFNvxZPN86Toh6DRVR-Ak"
     }
   },
   {
@@ -590,11 +590,11 @@
     "languages": ["English", "Russian"],
     "userScore": 9.1,
 
-    "cover": "images/legacy_of_kain_soul_reaver_ps1.png",
+    "cover": "images/covers/legacy_of_kain_soul_reaver_ps1.png",
     "images": [
-      "images/legacy_of_kain_soul_reaver_ps1-1.webp",
-      "images/legacy_of_kain_soul_reaver_ps1-2.webp",
-      "images/legacy_of_kain_soul_reaver_ps1-3.webp"
+      "images/screenshots/legacy_of_kain_soul_reaver_ps1/1.webp",
+      "images/screenshots/legacy_of_kain_soul_reaver_ps1/2.webp",
+      "images/screenshots/legacy_of_kain_soul_reaver_ps1/3.webp"
     ],
     "trailer": "https://www.youtube.com/embed/WApA3a7rUho",
     "description": "Legacy of Kain: Soul Reaver is a 1999 action-adventure game for the original PlayStation. Players take control of Raziel, a vampire who is betrayed and left for dead by his master, Kain. Reborn as a spectral creature, Raziel sets out to take revenge while uncovering the secrets behind Nosgoth and his own fate. The game combines exploration, combat, environmental puzzles, and a dark gothic atmosphere. Raziel can travel between the Material and Spectral Realms, using this ability to access new areas and solve puzzles.",
@@ -602,6 +602,307 @@
       "USA": "https://drive.google.com/uc?export=download&id=1ZAOM1H2ou0bmC5M2NLzUUrvonpya40q8",
       "Europe": "https://drive.google.com/uc?export=download&id=1vZ9qHiuPdVHz-dytXUO-mJTLcY96lmsI",
       "Russia": "https://drive.google.com/uc?export=download&id=1t4rOcH8eJf4rxrcYVoNdiITIoSMK25rA"
+    }
+  },
+  {
+    "id": 23,
+    "title": "Tekken",
+    "category": ["Fighting"],
+    "platform": "PS1",
+    "releaseDate": {
+      "year": 1995,
+      "month": 3,
+      "day": 31
+    },
+    "publisher": "Namco",
+    "languages": ["English", "Japanese", "Russian"],
+    "userScore": 8.9,
+
+    "cover": "images/covers/tekken_ps1.png",
+    "images": [
+      "images/screenshots/tekken_ps1/1.webp",
+      "images/screenshots/tekken_ps1/2.webp",
+      "images/screenshots/tekken_ps1/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/I56jEDuTw9g",
+    "description": "Tekken is a 1995 fighting game for the original PlayStation, featuring intense one-on-one battles between skilled fighters from around the world. Players compete in the King of Iron Fist Tournament, using unique fighting styles, powerful combos, punches, and kicks to defeat their opponents. Each character has a distinct personality, fighting technique, and backstory.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1cwT2jZj30NU2HdkKWS8uXtkpxuC9rSWn",
+      "Europe": "https://drive.google.com/uc?export=download&id=1b8HU9YNvmbXisebTLht8e0CdRUhBYZz8",
+      "Japan": "https://drive.google.com/uc?export=download&id=1004Us9nCDL5KHGVYjvxMSN5mGSt4dkXM"
+    }
+  },
+  {
+    "id": 24,
+    "title": "Tekken 2",
+    "category": ["Fighting"],
+    "platform": "PS1",
+    "releaseDate": {
+      "year": 1996,
+      "month": 3,
+      "day": 29
+    },
+    "publisher": "Namco",
+    "languages": ["English", "Japanese", "Russian"],
+    "userScore": 8.9,
+
+    "cover": "images/covers/tekken_2_ps1.png",
+    "images": [
+      "images/screenshots/tekken_2_ps1/1.webp",
+      "images/screenshots/tekken_2_ps1/2.webp",
+      "images/screenshots/tekken_2_ps1/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/sAKXkCYOu7k",
+    "description": "Tekken 2 is a 1996 fighting game for the original PlayStation, developed by Namco. Set after the events of the first game, it follows the King of Iron Fist Tournament 2, organized by Heihachi Mishima's son, Kazuya Mishima. Fighters from around the world enter the competition to prove their strength, settle personal rivalries, and claim victory. Players choose from a diverse roster of martial artists, each with unique fighting styles, special moves, and devastating combos. With improved gameplay, new characters, and multiple game modes, Tekken 2 delivers an exciting classic fighting experience.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1ZAOM1H2ou0bmC5M2NLzUUrvonpya40q8",
+      "Europe": "https://drive.google.com/uc?export=download&id=1vZ9qHiuPdVHz-dytXUO-mJTLcY96lmsI",
+      "Japan": "https://drive.google.com/uc?export=download&id=1t4rOcH8eJf4rxrcYVoNdiITIoSMK25rA"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Tekken 3",
+    "category": ["Fighting"],
+    "platform": "PS1",
+    "releaseDate": {
+      "year": 1998,
+      "month": 3,
+      "day": 26
+    },
+    "publisher": "Namco",
+    "languages": ["English", "Japanese", "Russian"],
+    "userScore": 9.6,
+
+    "cover": "images/covers/tekken_3_ps1.png",
+    "images": [
+      "images/screenshots/tekken_3_ps1/1.webp",
+      "images/screenshots/tekken_3_ps1/2.webp",
+      "images/screenshots/tekken_3_ps1/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/IsvtUxEFQaU",
+    "description": "Tekken 3 is a classic 1998 fighting game for the original PlayStation, developed by Namco. Set nearly 20 years after the events of Tekken 2, the game introduces a new generation of fighters competing in the King of Iron Fist Tournament 3. Players follow Jin Kazama's quest for revenge against the powerful Ogre while battling skilled martial artists from around the world. Featuring fast-paced combat, fluid animations, and an expanded roster of memorable characters, Tekken 3 is widely regarded as one of the greatest fighting games of its generation.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=148UPy-lZBCCsCZdoyj2eLq23WtOhwxmi",
+      "Europe": "https://drive.google.com/uc?export=download&id=10KBiJYklsyP-vHu2sqNRM9_8t2ew-Qnt",
+      "Russian": "https://drive.google.com/uc?export=download&id=1-pxWcIUu3x8krACMkeM-yEZbj81vYrl_",
+      "Japan": "https://drive.google.com/uc?export=download&id=1YvrnddcmY9sxLerM3K5ehJVigxZR8dtV"
+    }
+  },
+  {
+    "id": 26,
+    "title": "Tekken Advance",
+    "category": ["Fighting"],
+    "platform": "GBA",
+    "releaseDate": {
+      "year": 2002,
+      "month": 1,
+      "day": 28
+    },
+    "publisher": "Namco",
+    "languages": ["English"],
+    "userScore": 7.7,
+
+    "cover": "images/covers/tekken_advance_gba.png",
+    "images": [
+      "images/screenshots/tekken_advance_gba/1.webp",
+      "images/screenshots/tekken_advance_gba/2.webp",
+      "images/screenshots/tekken_advance_gba/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/yFTzga0kgY0",
+    "description": "Tekken Advance is a 2001 fighting game for the Game Boy Advance, bringing the popular Tekken series to Nintendo's handheld console. Players compete in intense one-on-one battles, choosing from a roster of skilled fighters, each with unique moves, combos, and fighting styles. The game adapts the series' fast-paced combat to the GBA with simplified controls and colorful 2D graphics.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=10HdX_-tcKWOv5UA7DlZFHTbkHZSOob1Q",
+      "Europe": "https://drive.google.com/uc?export=download&id=1sF48g7vwc9V-3jM7b5wyw0F1RZJooDfm"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Harry Potter and the Goblet of Fire",
+    "category": ["Action", "Adventure"],
+    "platform": "NDS",
+    "releaseDate": {
+      "year": 2005,
+      "month": 11,
+      "day": 8
+    },
+    "publisher": "Electronic Arts",
+    "languages": ["English", "French", "German", "Italian", "Spanish"],
+    "userScore": 6.8,
+
+    "cover": "images/covers/harry_potter_and_the_goblet_of_fire_nds.png",
+    "images": [
+      "images/screenshots/harry_potter_and_the_goblet_of_fire_nds/1.webp",
+      "images/screenshots/harry_potter_and_the_goblet_of_fire_nds/2.webp",
+      "images/screenshots/harry_potter_and_the_goblet_of_fire_nds/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/SWHyxWLe7Ww",
+    "description": "Harry Potter and the Goblet of Fire is an action-adventure game released for the Nintendo DS in 2005, based on the fourth book and film in the Harry Potter series. Players join Harry, Ron, and Hermione as they face dangerous challenges surrounding the Triwizard Tournament, uncover the mystery behind Harry's unexpected participation, and confront the return of Lord Voldemort. The Nintendo DS version features touch-screen controls, spellcasting, magical challenges, and exploration of familiar locations from the wizarding world. Players must use their magical abilities, collect resources, and work together to overcome enemies and complete missions.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1FcZMvFBaE8pTYRH7t28FZw4syva36tww",
+      "Europe": "https://drive.google.com/uc?export=download&id=1ybYQRxZqS3otsd6WZ9LnKtece4sdRhAf"
+    }
+  },
+  {
+    "id": 28,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "category": ["Action", "Adventure"],
+    "platform": "NDS",
+    "releaseDate": {
+      "year": 2007,
+      "month": 6,
+      "day": 25
+    },
+    "publisher": "Electronic Arts",
+    "languages": ["English", "French", "German", "Italian", "Spanish"],
+    "userScore": 5.1,
+
+    "cover": "images/covers/harry_potter_and_the_order_of_the_phoenix_nds.png",
+    "images": [
+      "images/screenshots/harry_potter_and_the_order_of_the_phoenix_nds/1.webp",
+      "images/screenshots/harry_potter_and_the_order_of_the_phoenix_nds/2.webp",
+      "images/screenshots/harry_potter_and_the_order_of_the_phoenix_nds/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/wWT-zjKZt78",
+    "description": "Harry Potter and the Order of the Phoenix is a 2007 action-adventure game for the Nintendo DS, based on the fifth book and film in the Harry Potter series. Players take control of Harry Potter as he returns to Hogwarts for another school year, where the Ministry of Magic denies the return of Lord Voldemort. With Professor Umbridge taking control of the school, Harry secretly forms Dumbledore's Army to teach fellow students defensive magic and prepare them for the dangers ahead. The Nintendo DS version features touch-screen spellcasting, magical challenges, exploration, and interactions with familiar characters. Players must master spells, complete tasks around Hogwarts, and help Harry uncover the truth while preparing for the final confrontation.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1gTaIjEx-q6N7Rt8tissBky5dO-HWv38X",
+      "Europe": "https://drive.google.com/uc?export=download&id=1Z7p-PBP5HJVx9Y2XdLiV2i1MRkdgk9D-"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "category": ["Action", "Adventure"],
+    "platform": "NDS",
+    "releaseDate": {
+      "year": 2009,
+      "month": 6,
+      "day": 30
+    },
+    "publisher": "Electronic Arts",
+    "languages": ["English", "French", "Spanish", "German", "Italian"],
+    "userScore": 4.8,
+
+    "cover": "images/covers/harry_potter_and_the_half_blood_prince_nds.png",
+    "images": [
+      "images/screenshots/harry_potter_and_the_half_blood_prince_nds/1.webp",
+      "images/screenshots/harry_potter_and_the_half_blood_prince_nds/2.webp",
+      "images/screenshots/harry_potter_and_the_half_blood_prince_nds/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/wWT-zjKZt78",
+    "description": "Harry Potter and the Half-Blood Prince is a 2009 action-adventure game for the Nintendo DS, based on the sixth book and film in the Harry Potter series. Players return to Hogwarts as Harry Potter begins his sixth year, discovers an old Potions textbook filled with mysterious notes, and works with Professor Dumbledore to uncover the secrets of Lord Voldemort's past. The Nintendo DS version combines magical duels, potion-making, exploration, and school activities. Players can practice spells, brew potions, participate in wizarding competitions, and help Harry prepare for the growing dangers threatening the wizarding world.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1zqwenmIHEjNg_GLT3IIuicLYKTvsQ4RC",
+      "Europe": "https://drive.google.com/uc?export=download&id=1P67Prx2qNzOybSFRhPdui7odnHnKjPki"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Harry Potter and the Deathly Hallows, Part 1",
+    "category": ["Action", "Adventure"],
+    "platform": "NDS",
+    "releaseDate": {
+      "year": 2010,
+      "month": 11,
+      "day": 16
+    },
+    "publisher": "Electronic Arts",
+    "languages": ["English", "French", "Spanish", "German", "Italian"],
+    "userScore": 5.6,
+
+    "cover": "images/covers/harry_potter_and_the_deathly_hallows_part_1_nds.png",
+    "images": [
+      "images/screenshots/harry_potter_and_the_deathly_hallows_part_1_nds/1.webp",
+      "images/screenshots/harry_potter_and_the_deathly_hallows_part_1_nds/2.webp",
+      "images/screenshots/harry_potter_and_the_deathly_hallows_part_1_nds/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/-1pjP1PG_2I",
+    "description": "Harry Potter and the Deathly Hallows – Part 1 is a 2010 action-adventure game for the Nintendo DS, based on the first part of the final Harry Potter film. Players take control of Harry Potter as he leaves Hogwarts behind and joins Ron Weasley and Hermione Granger on a dangerous mission to find and destroy the Horcruxes that protect Lord Voldemort's immortality. Unlike earlier games in the series, this installment focuses heavily on combat, stealth, and survival. Players must use defensive spells, magical objects, and strategic tactics to escape enemies, evade the Ministry of Magic, and overcome the growing threats facing the wizarding world.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1zqwenmIHEjNg_GLT3IIuicLYKTvsQ4RC",
+      "Europe": "https://drive.google.com/uc?export=download&id=1P67Prx2qNzOybSFRhPdui7odnHnKjPki"
+    }
+  },
+  {
+    "id": 31,
+    "title": "Harry Potter and the Deathly Hallows, Part 2",
+    "category": ["Action", "Adventure"],
+    "platform": "NDS",
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 12
+    },
+    "publisher": "Electronic Arts",
+    "languages": ["English", "French", "Spanish", "German", "Italian"],
+    "userScore": 5.5,
+
+    "cover": "images/covers/harry_potter_and_the_deathly_hallows_part_2_nds.png",
+    "images": [
+      "images/screenshots/harry_potter_and_the_deathly_hallows_part_2_nds/1.webp",
+      "images/screenshots/harry_potter_and_the_deathly_hallows_part_2_nds/2.webp",
+      "images/screenshots/harry_potter_and_the_deathly_hallows_part_2_nds/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/fWVEZaf8veQ",
+    "description": "Harry Potter and the Deathly Hallows – Part 2 is a 2011 action-adventure game for the Nintendo DS, based on the final film in the Harry Potter series. Players join Harry Potter, Ron Weasley, and Hermione Granger in their desperate mission to destroy the remaining Horcruxes and defeat Lord Voldemort once and for all. The adventure leads to the legendary Battle of Hogwarts, where the fate of the wizarding world will be decided. The Nintendo DS version focuses on magical combat, spellcasting, and action-packed missions. Players must face powerful enemies, overcome dangerous obstacles, and use their magical abilities to survive the final battle against the forces of darkness.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1zqwenmIHEjNg_GLT3IIuicLYKTvsQ4RC",
+      "Europe": "https://drive.google.com/uc?export=download&id=1P67Prx2qNzOybSFRhPdui7odnHnKjPki"
+    }
+  },
+  {
+    "id": 32,
+    "title": "LEGO Harry Potter: Years 1–4",
+    "category": ["Adventure"],
+    "platform": "NDS",
+    "releaseDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 29
+    },
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "languages": ["English", "French", "Spanish", "German", "Italian"],
+    "userScore": 7.2,
+
+    "cover": "images/covers/lego_harry_potter_year_1-4_nds.png",
+    "images": [
+      "images/screenshots/lego_harry_potter_year_1-4_nds/1.webp",
+      "images/screenshots/lego_harry_potter_year_1-4_nds/2.webp",
+      "images/screenshots/lego_harry_potter_year_1-4_nds/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/gR4GTF0xd1k",
+    "description": "LEGO Harry Potter: Years 1–4 is a 2010 action-adventure game for the Nintendo DS that combines the magical world of Harry Potter with LEGO's humorous style and puzzle-solving gameplay. The game follows Harry, Ron, and Hermione through their first four years at Hogwarts School of Witchcraft and Wizardry, covering events from The Philosopher's Stone, The Chamber of Secrets, The Prisoner of Azkaban, and The Goblet of Fire. Players explore Hogwarts, learn spells, brew potions, collect LEGO studs, and solve puzzles using the unique abilities of different characters. With its colorful environments, hidden secrets, and playful interpretation of the films, the game offers a fun magical adventure for players of all ages.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=128B3drIuebKkk6DPekKyYmJsy24xx-k1",
+      "Europe": "https://drive.google.com/uc?export=download&id=1SR5TgIuSPCNfaLDJmQ72_Qjk-MJr0z9b"
+    }
+  },
+  {
+    "id": 33,
+    "title": "LEGO Harry Potter: Years 5-7",
+    "category": ["Adventure"],
+    "platform": "NDS",
+    "releaseDate": {
+      "year": 2011,
+      "month": 11,
+      "day": 11
+    },
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "languages": ["English", "French", "Spanish", "German", "Italian"],
+    "userScore": 6.9,
+
+    "cover": "images/covers/lego_harry_potter_year_5-7_nds.png",
+    "images": [
+      "images/screenshots/lego_harry_potter_year_5-7_nds/1.webp",
+      "images/screenshots/lego_harry_potter_year_5-7_nds/2.webp",
+      "images/screenshots/lego_harry_potter_year_5-7_nds/3.webp"
+    ],
+    "trailer": "https://www.youtube.com/embed/rBliL5KcgxY",
+    "description": "LEGO Harry Potter: Years 5–7 is a 2011 action-adventure game for the Nintendo DS that combines the magical world of Harry Potter with LEGO's signature humor, exploration, and puzzle-solving gameplay. The game follows Harry, Ron, and Hermione through the final three years of their adventures, covering The Order of the Phoenix, The Half-Blood Prince, and The Deathly Hallows. Players explore familiar locations, learn powerful spells, brew potions, and battle dark wizards as the story builds toward the final confrontation with Lord Voldemort. The game features colorful LEGO environments, hidden collectibles, and puzzles that require different characters' magical abilities.",
+    "downloads": {
+      "USA": "https://drive.google.com/uc?export=download&id=1UJ-8iEVwjC8dYukeoI07up5PuzWQeUjc",
+      "Europe": "https://drive.google.com/uc?export=download&id=1RcvtBLtY7YPEpaDARjwOkMB-VsHlTw2l"
     }
   }
 ]
