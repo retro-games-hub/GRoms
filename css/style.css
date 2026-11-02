@@ -333,6 +333,11 @@ select {
   .logo-text span{
     display: ruby-text;
   }
+
+  .gallery {    
+    flex-direction: row;
+    justify-content: center;
+  }
 }
 
 .game-layout {
