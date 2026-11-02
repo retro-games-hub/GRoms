@@ -323,11 +323,15 @@ select {
   }
 
   .header-inner{
-    flex-direction: column;
+    flex-direction: revert;
   }
 
   .search-box{
     width: 100%;
+  }
+
+  .logo-text span{
+    display: ruby-text;
   }
 }
 
